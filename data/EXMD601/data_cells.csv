@@ -1,0 +1,3001 @@
+cellid,donor_sex_label,region_label,subclass_label,class_label,layer_label
+1,M,RSP,Vip,GABAergic,other
+2,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+3,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+4,M,ENT,L2 IT ENTl,Glutamatergic,L2
+5,M,RSP,L5 PT CTX,Glutamatergic,L5
+6,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+7,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+8,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+9,M,RSP,L6 CT CTX,Glutamatergic,L6
+10,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+11,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+12,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+13,M,VIS,Sst,GABAergic,other
+14,M,VIS,L6 IT CTX,Glutamatergic,L6
+15,M,VIS,L6 IT CTX,Glutamatergic,L6
+16,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+17,M,VIS,L6 CT CTX,Glutamatergic,L6
+18,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+19,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+20,M,VIS,L5 PT CTX,Glutamatergic,L5
+21,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+22,F,ENT,L6b/CT ENT,Glutamatergic,L6
+23,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+24,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+25,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+26,M,RSP,Vip,GABAergic,other
+27,M,ENT,L3 IT ENT,Glutamatergic,L3
+28,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+29,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+30,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+31,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+32,M,VIS,Lamp5,GABAergic,other
+33,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+34,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+35,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+36,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+37,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+38,F,ENT,Pvalb,GABAergic,other
+39,M,ENT,Vip,GABAergic,other
+40,F,VIS,L5 IT CTX,Glutamatergic,L5
+41,M,VIS,L6 IT CTX,Glutamatergic,L6
+42,M,VIS,L5 IT CTX,Glutamatergic,L5
+43,M,VIS,L6 IT CTX,Glutamatergic,L6
+44,M,VIS,L6 CT CTX,Glutamatergic,L6
+45,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+46,F,ENT,L6b/CT ENT,Glutamatergic,L6
+47,M,VIS,L6 CT CTX,Glutamatergic,L6
+48,F,ENT,NP PPP,Glutamatergic,other
+49,M,ENT,L6b/CT ENT,Glutamatergic,L6
+50,M,VIS,L6 CT CTX,Glutamatergic,L6
+51,M,VIS,Sst,GABAergic,other
+52,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+53,F,VIS,L6 IT CTX,Glutamatergic,L6
+54,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+55,M,VIS,Astro,Non-Neuronal,other
+56,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+57,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+58,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+59,M,RSP,L5 PT CTX,Glutamatergic,L5
+60,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+61,F,VIS,L6 IT CTX,Glutamatergic,L6
+62,F,VIS,Sst,GABAergic,other
+63,M,ENT,Pvalb,GABAergic,other
+64,M,VIS,L6 CT CTX,Glutamatergic,L6
+65,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+66,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+67,M,ENT,L2 IT ENTl,Glutamatergic,L2
+68,F,ENT,L3 IT ENT,Glutamatergic,L3
+69,M,ENT,NP PPP,Glutamatergic,other
+70,F,ENT,L6b/CT ENT,Glutamatergic,L6
+71,M,VIS,L6 CT CTX,Glutamatergic,L6
+72,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+73,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+74,M,VIS,Vip,GABAergic,other
+75,M,VIS,L6 CT CTX,Glutamatergic,L6
+76,M,VIS,Vip,GABAergic,other
+77,M,VIS,L6 CT CTX,Glutamatergic,L6
+78,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+79,F,ENT,L3 IT ENT,Glutamatergic,L3
+80,F,ENT,Sst,GABAergic,other
+81,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+82,M,ENT,L3 IT ENT,Glutamatergic,L3
+83,M,VIS,L6 CT CTX,Glutamatergic,L6
+84,F,VIS,Vip,GABAergic,other
+85,M,VIS,L6 CT CTX,Glutamatergic,L6
+86,F,VIS,L6 IT CTX,Glutamatergic,L6
+87,M,VIS,L5 IT CTX,Glutamatergic,L5
+88,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+89,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+90,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+91,M,ENT,L6b/CT ENT,Glutamatergic,L6
+92,F,VIS,L6 CT CTX,Glutamatergic,L6
+93,M,VIS,L6 CT CTX,Glutamatergic,L6
+94,F,ENT,L6b/CT ENT,Glutamatergic,L6
+95,M,VIS,Pvalb,GABAergic,other
+96,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+97,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+98,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+99,M,VIS,L5 IT CTX,Glutamatergic,L5
+100,M,VIS,L6 CT CTX,Glutamatergic,L6
+101,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+102,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+103,F,VIS,L6 CT CTX,Glutamatergic,L6
+104,M,RSP,L6 CT CTX,Glutamatergic,L6
+105,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+106,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+107,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+108,F,ENT,Lamp5,GABAergic,other
+109,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+110,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+111,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+112,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+113,M,VIS,L5 IT CTX,Glutamatergic,L5
+114,M,VIS,L6 IT CTX,Glutamatergic,L6
+115,M,VIS,L6 CT CTX,Glutamatergic,L6
+116,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+117,M,VIS,Vip,GABAergic,other
+118,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+119,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+120,F,RSP,L5 IT CTX,Glutamatergic,L5
+121,F,ENT,L6b/CT ENT,Glutamatergic,L6
+122,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+123,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+124,M,VIS,L6 CT CTX,Glutamatergic,L6
+125,F,VIS,L6 CT CTX,Glutamatergic,L6
+126,M,RSP,L5 IT CTX,Glutamatergic,L5
+127,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+128,F,ENT,NP PPP,Glutamatergic,other
+129,F,ENT,Sncg,GABAergic,other
+130,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+131,F,ENT,L3 IT ENT,Glutamatergic,L3
+132,F,ENT,L6b/CT ENT,Glutamatergic,L6
+133,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+134,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+135,M,VIS,L5 PT CTX,Glutamatergic,L5
+136,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+137,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+138,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+139,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+140,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+141,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+142,M,VIS,L5 IT CTX,Glutamatergic,L5
+143,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+144,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+145,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+146,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+147,M,VIS,L6 CT CTX,Glutamatergic,L6
+148,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+149,F,RSP,L6 CT CTX,Glutamatergic,L6
+150,M,VIS,L6 IT CTX,Glutamatergic,L6
+151,M,VIS,L6 CT CTX,Glutamatergic,L6
+152,M,RSP,L6 CT CTX,Glutamatergic,L6
+153,M,VIS,L6 IT CTX,Glutamatergic,L6
+154,M,VIS,L6 CT CTX,Glutamatergic,L6
+155,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+156,F,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+157,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+158,F,ENT,L3 IT ENT,Glutamatergic,L3
+159,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+160,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+161,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+162,M,VIS,L5 IT CTX,Glutamatergic,L5
+163,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+164,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+165,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+166,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+167,F,ENT,L6b/CT ENT,Glutamatergic,L6
+168,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+169,F,VIS,L6 CT CTX,Glutamatergic,L6
+170,M,VIS,L6 IT CTX,Glutamatergic,L6
+171,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+172,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+173,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+174,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+175,M,ENT,L6 IT ENTl,Glutamatergic,L6
+176,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+177,M,RSP,L5 PT CTX,Glutamatergic,L5
+178,M,VIS,Lamp5,GABAergic,other
+179,M,VIS,Pvalb,GABAergic,other
+180,M,VIS,Vip,GABAergic,other
+181,M,VIS,Oligo,Non-Neuronal,other
+182,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+183,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+184,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+185,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+186,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+187,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+188,F,ENT,Pvalb,GABAergic,other
+189,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+190,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+191,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+192,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+193,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+194,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+195,M,VIS,L5 PT CTX,Glutamatergic,L5
+196,F,ENT,L2 IT ENTm,Glutamatergic,L2
+197,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+198,F,ENT,Sst,GABAergic,other
+199,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+200,M,ENT,L6b/CT ENT,Glutamatergic,L6
+201,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+202,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+203,M,ENT,L6b/CT ENT,Glutamatergic,L6
+204,F,ENT,L2 IT ENTl,Glutamatergic,L2
+205,F,RSP,Vip,GABAergic,other
+206,F,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+207,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+208,M,VIS,L5 PT CTX,Glutamatergic,L5
+209,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+210,M,ENT,L2 IT ENTl,Glutamatergic,L2
+211,M,VIS,Pvalb,GABAergic,other
+212,F,ENT,L6b/CT ENT,Glutamatergic,L6
+213,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+214,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+215,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+216,M,RSP,L5 IT CTX,Glutamatergic,L5
+217,M,VIS,L6 IT CTX,Glutamatergic,L6
+218,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+219,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+220,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+221,M,ENT,L2 IT ENTl,Glutamatergic,L2
+222,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+223,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+224,M,VIS,Pvalb,GABAergic,other
+225,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+226,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+227,M,VIS,L5 IT CTX,Glutamatergic,L5
+228,F,ENT,L6b/CT ENT,Glutamatergic,L6
+229,M,ENT,L6 IT ENTl,Glutamatergic,L6
+230,M,VIS,Sst,GABAergic,other
+231,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+232,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+233,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+234,M,ENT,L6b/CT ENT,Glutamatergic,L6
+235,F,ENT,L6b CTX,Glutamatergic,L6
+236,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+237,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+238,F,ENT,L6b/CT ENT,Glutamatergic,L6
+239,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+240,M,VIS,Pvalb,GABAergic,other
+241,F,ENT,L3 IT ENT,Glutamatergic,L3
+242,M,ENT,Pvalb,GABAergic,other
+243,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+244,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+245,M,VIS,L6 CT CTX,Glutamatergic,L6
+246,M,VIS,Sst,GABAergic,other
+247,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+248,M,RSP,Oligo,Non-Neuronal,other
+249,M,VIS,L6b CTX,Glutamatergic,L6
+250,M,ENT,L6b/CT ENT,Glutamatergic,L6
+251,M,ENT,Vip,GABAergic,other
+252,M,VIS,L6 IT CTX,Glutamatergic,L6
+253,M,VIS,L5 PT CTX,Glutamatergic,L5
+254,F,ENT,L3 IT ENT,Glutamatergic,L3
+255,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+256,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+257,M,RSP,L6 IT CTX,Glutamatergic,L6
+258,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+259,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+260,M,VIS,L5 IT CTX,Glutamatergic,L5
+261,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+262,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+263,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+264,F,RSP,L5 IT CTX,Glutamatergic,L5
+265,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+266,M,VIS,L5 IT CTX,Glutamatergic,L5
+267,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+268,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+269,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+270,M,RSP,Vip,GABAergic,other
+271,M,RSP,L5 IT CTX,Glutamatergic,L5
+272,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+273,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+274,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+275,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+276,F,ENT,L6b/CT ENT,Glutamatergic,L6
+277,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+278,M,RSP,L5 IT CTX,Glutamatergic,L5
+279,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+280,M,VIS,L6 IT CTX,Glutamatergic,L6
+281,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+282,F,ENT,Lamp5,GABAergic,other
+283,F,ENT,L2 IT ENTl,Glutamatergic,L2
+284,F,VIS,Sst,GABAergic,other
+285,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+286,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+287,M,VIS,L5 PT CTX,Glutamatergic,L5
+288,M,RSP,L6 CT CTX,Glutamatergic,L6
+289,M,VIS,L6 IT CTX,Glutamatergic,L6
+290,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+291,M,VIS,L6 CT CTX,Glutamatergic,L6
+292,F,VIS,Pvalb,GABAergic,other
+293,M,VIS,L6 CT CTX,Glutamatergic,L6
+294,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+295,M,VIS,L6 IT CTX,Glutamatergic,L6
+296,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+297,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+298,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+299,M,ENT,Vip,GABAergic,other
+300,M,ENT,L6b/CT ENT,Glutamatergic,L6
+301,F,ENT,L2 IT ENTl,Glutamatergic,L2
+302,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+303,F,VIS,Lamp5,GABAergic,other
+304,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+305,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+306,M,VIS,L6 CT CTX,Glutamatergic,L6
+307,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+308,M,VIS,Vip,GABAergic,other
+309,F,VIS,L5 IT CTX,Glutamatergic,L5
+310,M,VIS,L6 IT CTX,Glutamatergic,L6
+311,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+312,F,ENT,L3 IT ENT,Glutamatergic,L3
+313,M,VIS,Sncg,GABAergic,other
+314,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+315,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+316,M,VIS,Vip,GABAergic,other
+317,M,VIS,L6 IT CTX,Glutamatergic,L6
+318,F,VIS,L6 CT CTX,Glutamatergic,L6
+319,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+320,M,VIS,Lamp5,GABAergic,other
+321,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+322,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+323,F,ENT,L3 IT ENT,Glutamatergic,L3
+324,M,VIS,L6 CT CTX,Glutamatergic,L6
+325,M,VIS,L5 IT CTX,Glutamatergic,L5
+326,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+327,M,RSP,L6 CT CTX,Glutamatergic,L6
+328,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+329,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+330,M,VIS,L5 IT CTX,Glutamatergic,L5
+331,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+332,M,VIS,L6 IT CTX,Glutamatergic,L6
+333,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+334,M,VIS,Vip,GABAergic,other
+335,F,ENT,L6b/CT ENT,Glutamatergic,L6
+336,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+337,M,VIS,L5 IT CTX,Glutamatergic,L5
+338,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+339,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+340,M,RSP,Vip,GABAergic,other
+341,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+342,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+343,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+344,M,RSP,Sst,GABAergic,other
+345,F,ENT,L3 IT ENT,Glutamatergic,L3
+346,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+347,M,RSP,L6 CT CTX,Glutamatergic,L6
+348,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+349,M,VIS,Lamp5,GABAergic,other
+350,M,RSP,L6 CT CTX,Glutamatergic,L6
+351,M,VIS,L5 IT CTX,Glutamatergic,L5
+352,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+353,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+354,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+355,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+356,F,VIS,L6 CT CTX,Glutamatergic,L6
+357,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+358,F,VIS,L6b CTX,Glutamatergic,L6
+359,M,RSP,L5 IT CTX,Glutamatergic,L5
+360,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+361,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+362,F,ENT,L3 IT ENT,Glutamatergic,L3
+363,F,VIS,Lamp5,GABAergic,other
+364,F,RSP,L6 CT CTX,Glutamatergic,L6
+365,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+366,M,VIS,L5 IT CTX,Glutamatergic,L5
+367,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+368,M,RSP,L6 CT CTX,Glutamatergic,L6
+369,M,RSP,L6 IT CTX,Glutamatergic,L6
+370,F,VIS,Vip,GABAergic,other
+371,M,VIS,L6 IT CTX,Glutamatergic,L6
+372,M,ENT,L6b/CT ENT,Glutamatergic,L6
+373,M,RSP,L5 IT CTX,Glutamatergic,L5
+374,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+375,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+376,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+377,M,VIS,L6 CT CTX,Glutamatergic,L6
+378,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+379,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+380,M,ENT,L6b/CT ENT,Glutamatergic,L6
+381,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+382,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+383,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+384,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+385,M,ENT,Sst,GABAergic,other
+386,M,VIS,L6 CT CTX,Glutamatergic,L6
+387,F,ENT,L2 IT ENTl,Glutamatergic,L2
+388,M,RSP,Pvalb,GABAergic,other
+389,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+390,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+391,M,RSP,L6 IT CTX,Glutamatergic,L6
+392,F,VIS,L6 CT CTX,Glutamatergic,L6
+393,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+394,M,VIS,L6 IT CTX,Glutamatergic,L6
+395,M,VIS,Sst Chodl,GABAergic,other
+396,M,VIS,L6 IT CTX,Glutamatergic,L6
+397,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+398,F,ENT,L2 IT ENTl,Glutamatergic,L2
+399,M,VIS,L5 IT CTX,Glutamatergic,L5
+400,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+401,M,ENT,L6b/CT ENT,Glutamatergic,L6
+402,M,VIS,L6 IT CTX,Glutamatergic,L6
+403,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+404,M,VIS,L6 CT CTX,Glutamatergic,L6
+405,M,VIS,L6 IT CTX,Glutamatergic,L6
+406,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+407,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+408,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+409,M,VIS,L6 IT CTX,Glutamatergic,L6
+410,M,ENT,Sst,GABAergic,other
+411,M,RSP,Sncg,GABAergic,other
+412,M,VIS,L6 CT CTX,Glutamatergic,L6
+413,M,ENT,L6b/CT ENT,Glutamatergic,L6
+414,M,VIS,L6 CT CTX,Glutamatergic,L6
+415,M,ENT,L6b/CT ENT,Glutamatergic,L6
+416,M,VIS,L5 IT CTX,Glutamatergic,L5
+417,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+418,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+419,M,VIS,L6 IT CTX,Glutamatergic,L6
+420,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+421,M,VIS,Pvalb,GABAergic,other
+422,M,VIS,L6 CT CTX,Glutamatergic,L6
+423,M,VIS,L6 IT CTX,Glutamatergic,L6
+424,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+425,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+426,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+427,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+428,F,ENT,L3 IT ENT,Glutamatergic,L3
+429,F,RSP,L6 CT CTX,Glutamatergic,L6
+430,M,VIS,L6 CT CTX,Glutamatergic,L6
+431,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+432,M,ENT,Pvalb,GABAergic,other
+433,M,VIS,Oligo,Non-Neuronal,other
+434,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+435,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+436,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+437,M,VIS,L5 IT CTX,Glutamatergic,L5
+438,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+439,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+440,M,VIS,L6 CT CTX,Glutamatergic,L6
+441,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+442,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+443,M,ENT,L3 IT ENT,Glutamatergic,L3
+444,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+445,F,ENT,L2 IT ENTl,Glutamatergic,L2
+446,M,VIS,L6 CT CTX,Glutamatergic,L6
+447,M,ENT,L3 IT ENT,Glutamatergic,L3
+448,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+449,M,VIS,Vip,GABAergic,other
+450,F,RSP,L6 CT CTX,Glutamatergic,L6
+451,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+452,M,VIS,L6 CT CTX,Glutamatergic,L6
+453,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+454,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+455,M,VIS,Sst,GABAergic,other
+456,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+457,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+458,F,VIS,Sncg,GABAergic,other
+459,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+460,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+461,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+462,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+463,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+464,M,VIS,L6 CT CTX,Glutamatergic,L6
+465,M,VIS,L6 IT CTX,Glutamatergic,L6
+466,F,VIS,L6 CT CTX,Glutamatergic,L6
+467,F,ENT,L2 IT ENTm,Glutamatergic,L2
+468,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+469,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+470,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+471,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+472,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+473,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+474,M,VIS,L6 CT CTX,Glutamatergic,L6
+475,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+476,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+477,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+478,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+479,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+480,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+481,M,VIS,Vip,GABAergic,other
+482,M,VIS,L6 IT CTX,Glutamatergic,L6
+483,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+484,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+485,M,VIS,Pvalb,GABAergic,other
+486,M,VIS,L5 PT CTX,Glutamatergic,L5
+487,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+488,F,VIS,Car3,Glutamatergic,other
+489,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+490,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+491,M,RSP,L6 CT CTX,Glutamatergic,L6
+492,M,VIS,L6 IT CTX,Glutamatergic,L6
+493,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+494,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+495,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+496,F,ENT,L6b/CT ENT,Glutamatergic,L6
+497,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+498,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+499,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+500,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+501,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+502,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+503,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+504,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+505,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+506,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+507,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+508,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+509,M,ENT,L3 IT ENT,Glutamatergic,L3
+510,M,VIS,Car3,Glutamatergic,other
+511,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+512,M,ENT,L3 IT ENT,Glutamatergic,L3
+513,M,RSP,Sncg,GABAergic,other
+514,F,ENT,L6b/CT ENT,Glutamatergic,L6
+515,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+516,F,ENT,L6b/CT ENT,Glutamatergic,L6
+517,M,VIS,Lamp5,GABAergic,other
+518,M,RSP,L5 IT CTX,Glutamatergic,L5
+519,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+520,M,ENT,L3 IT ENT,Glutamatergic,L3
+521,M,VIS,L6 CT CTX,Glutamatergic,L6
+522,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+523,M,VIS,Lamp5,GABAergic,other
+524,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+525,M,VIS,Sst,GABAergic,other
+526,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+527,M,VIS,Vip,GABAergic,other
+528,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+529,M,VIS,L6 CT CTX,Glutamatergic,L6
+530,F,RSP,L5 IT CTX,Glutamatergic,L5
+531,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+532,F,VIS,L5 IT CTX,Glutamatergic,L5
+533,M,ENT,L6b/CT ENT,Glutamatergic,L6
+534,F,VIS,L6 CT CTX,Glutamatergic,L6
+535,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+536,M,ENT,L3 IT ENT,Glutamatergic,L3
+537,M,VIS,Sst,GABAergic,other
+538,M,VIS,L6 CT CTX,Glutamatergic,L6
+539,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+540,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+541,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+542,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+543,F,VIS,L6 CT CTX,Glutamatergic,L6
+544,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+545,F,RSP,L6 IT CTX,Glutamatergic,L6
+546,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+547,F,VIS,Lamp5,GABAergic,other
+548,M,VIS,Pvalb,GABAergic,other
+549,M,VIS,Pvalb,GABAergic,other
+550,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+551,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+552,M,VIS,L5 PT CTX,Glutamatergic,L5
+553,F,ENT,L2 IT ENTl,Glutamatergic,L2
+554,F,RSP,Oligo,Non-Neuronal,other
+555,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+556,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+557,M,VIS,L5 PT CTX,Glutamatergic,L5
+558,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+559,M,VIS,Sncg,GABAergic,other
+560,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+561,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+562,M,VIS,L6 CT CTX,Glutamatergic,L6
+563,M,VIS,L6 CT CTX,Glutamatergic,L6
+564,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+565,M,VIS,L6 IT CTX,Glutamatergic,L6
+566,F,ENT,Pvalb,GABAergic,other
+567,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+568,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+569,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+570,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+571,M,VIS,L6 CT CTX,Glutamatergic,L6
+572,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+573,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+574,F,ENT,L6b/CT ENT,Glutamatergic,L6
+575,M,VIS,L6 CT CTX,Glutamatergic,L6
+576,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+577,F,ENT,L6 IT ENTl,Glutamatergic,L6
+578,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+579,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+580,M,ENT,L6b/CT ENT,Glutamatergic,L6
+581,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+582,M,ENT,L2 IT ENTl,Glutamatergic,L2
+583,F,VIS,Sst,GABAergic,other
+584,M,VIS,Pvalb,GABAergic,other
+585,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+586,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+587,F,ENT,L3 IT ENT,Glutamatergic,L3
+588,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+589,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+590,F,VIS,Sncg,GABAergic,other
+591,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+592,F,VIS,Sst,GABAergic,other
+593,M,VIS,Vip,GABAergic,other
+594,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+595,M,RSP,Endo,Non-Neuronal,other
+596,F,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+597,F,VIS,Sst,GABAergic,other
+598,F,ENT,L6b/CT ENT,Glutamatergic,L6
+599,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+600,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+601,F,VIS,L5 IT CTX,Glutamatergic,L5
+602,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+603,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+604,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+605,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+606,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+607,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+608,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+609,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+610,F,ENT,L2 IT ENTl,Glutamatergic,L2
+611,M,VIS,Sst,GABAergic,other
+612,M,RSP,L6 CT CTX,Glutamatergic,L6
+613,M,VIS,L6 CT CTX,Glutamatergic,L6
+614,M,VIS,Sst,GABAergic,other
+615,F,VIS,L5 IT CTX,Glutamatergic,L5
+616,M,RSP,L6 IT CTX,Glutamatergic,L6
+617,M,ENT,L6b CTX,Glutamatergic,L6
+618,F,VIS,L6 CT CTX,Glutamatergic,L6
+619,M,ENT,L6b/CT ENT,Glutamatergic,L6
+620,M,VIS,L6 IT CTX,Glutamatergic,L6
+621,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+622,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+623,M,VIS,L6 CT CTX,Glutamatergic,L6
+624,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+625,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+626,M,VIS,Pvalb,GABAergic,other
+627,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+628,M,ENT,Sst,GABAergic,other
+629,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+630,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+631,M,RSP,L6 CT CTX,Glutamatergic,L6
+632,F,ENT,L3 IT ENT,Glutamatergic,L3
+633,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+634,F,ENT,L2 IT ENTl,Glutamatergic,L2
+635,M,VIS,L5 IT CTX,Glutamatergic,L5
+636,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+637,F,VIS,L6 IT CTX,Glutamatergic,L6
+638,M,VIS,Vip,GABAergic,other
+639,M,ENT,L6b/CT ENT,Glutamatergic,L6
+640,F,ENT,Sncg,GABAergic,other
+641,F,ENT,L6b/CT ENT,Glutamatergic,L6
+642,M,ENT,Pvalb,GABAergic,other
+643,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+644,M,VIS,L6 CT CTX,Glutamatergic,L6
+645,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+646,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+647,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+648,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+649,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+650,M,VIS,L6 IT CTX,Glutamatergic,L6
+651,M,VIS,L6 IT CTX,Glutamatergic,L6
+652,M,VIS,L5 IT CTX,Glutamatergic,L5
+653,M,ENT,L6b/CT ENT,Glutamatergic,L6
+654,M,VIS,L6b CTX,Glutamatergic,L6
+655,M,VIS,Sst,GABAergic,other
+656,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+657,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+658,F,ENT,L6b/CT ENT,Glutamatergic,L6
+659,M,RSP,L6 CT CTX,Glutamatergic,L6
+660,F,ENT,L2 IT ENTl,Glutamatergic,L2
+661,M,ENT,L3 IT ENT,Glutamatergic,L3
+662,M,VIS,L6 CT CTX,Glutamatergic,L6
+663,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+664,M,VIS,L6 CT CTX,Glutamatergic,L6
+665,F,RSP,L5 IT CTX,Glutamatergic,L5
+666,F,ENT,L3 IT ENT,Glutamatergic,L3
+667,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+668,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+669,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+670,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+671,M,ENT,L6b/CT ENT,Glutamatergic,L6
+672,F,ENT,L3 IT ENT,Glutamatergic,L3
+673,M,ENT,Lamp5,GABAergic,other
+674,M,VIS,L6 IT CTX,Glutamatergic,L6
+675,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+676,M,VIS,Oligo,Non-Neuronal,other
+677,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+678,M,ENT,L6b/CT ENT,Glutamatergic,L6
+679,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+680,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+681,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+682,M,ENT,L5 PPP,Glutamatergic,L5
+683,M,VIS,L6 CT CTX,Glutamatergic,L6
+684,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+685,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+686,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+687,F,ENT,L6b/CT ENT,Glutamatergic,L6
+688,M,VIS,L6 CT CTX,Glutamatergic,L6
+689,M,VIS,L6 IT CTX,Glutamatergic,L6
+690,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+691,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+692,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+693,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+694,M,VIS,L6 CT CTX,Glutamatergic,L6
+695,M,VIS,Lamp5,GABAergic,other
+696,M,VIS,Sst,GABAergic,other
+697,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+698,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+699,M,ENT,Lamp5,GABAergic,other
+700,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+701,M,VIS,Pvalb,GABAergic,other
+702,M,VIS,L6 CT CTX,Glutamatergic,L6
+703,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+704,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+705,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+706,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+707,M,VIS,L6 CT CTX,Glutamatergic,L6
+708,M,VIS,Sst,GABAergic,other
+709,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+710,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+711,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+712,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+713,M,VIS,L6 IT CTX,Glutamatergic,L6
+714,M,VIS,Pvalb,GABAergic,other
+715,M,VIS,Lamp5,GABAergic,other
+716,F,ENT,L6b/CT ENT,Glutamatergic,L6
+717,M,VIS,Vip,GABAergic,other
+718,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+719,F,VIS,L6 IT CTX,Glutamatergic,L6
+720,M,VIS,L6 IT CTX,Glutamatergic,L6
+721,M,VIS,L6 CT CTX,Glutamatergic,L6
+722,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+723,M,VIS,L6 IT CTX,Glutamatergic,L6
+724,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+725,F,RSP,Sst,GABAergic,other
+726,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+727,F,VIS,L6 CT CTX,Glutamatergic,L6
+728,M,ENT,L3 IT ENT,Glutamatergic,L3
+729,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+730,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+731,M,RSP,L6 IT CTX,Glutamatergic,L6
+732,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+733,M,VIS,L6 CT CTX,Glutamatergic,L6
+734,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+735,F,VIS,Lamp5,GABAergic,other
+736,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+737,M,ENT,L2 IT ENTm,Glutamatergic,L2
+738,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+739,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+740,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+741,M,VIS,L5 IT CTX,Glutamatergic,L5
+742,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+743,F,ENT,L6b/CT ENT,Glutamatergic,L6
+744,M,VIS,L6 IT CTX,Glutamatergic,L6
+745,F,VIS,L5 IT CTX,Glutamatergic,L5
+746,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+747,M,VIS,Lamp5,GABAergic,other
+748,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+749,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+750,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+751,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+752,M,VIS,L6 CT CTX,Glutamatergic,L6
+753,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+754,M,VIS,L6 CT CTX,Glutamatergic,L6
+755,F,ENT,L3 IT ENT,Glutamatergic,L3
+756,M,VIS,Lamp5,GABAergic,other
+757,F,ENT,L6b/CT ENT,Glutamatergic,L6
+758,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+759,F,VIS,L6 CT CTX,Glutamatergic,L6
+760,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+761,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+762,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+763,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+764,M,VIS,L5 IT CTX,Glutamatergic,L5
+765,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+766,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+767,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+768,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+769,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+770,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+771,F,ENT,L2 IT ENTm,Glutamatergic,L2
+772,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+773,F,VIS,Vip,GABAergic,other
+774,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+775,M,ENT,L3 IT ENT,Glutamatergic,L3
+776,F,ENT,L6b/CT ENT,Glutamatergic,L6
+777,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+778,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+779,M,VIS,L6 IT CTX,Glutamatergic,L6
+780,M,VIS,Vip,GABAergic,other
+781,M,VIS,Lamp5,GABAergic,other
+782,M,VIS,L6 IT CTX,Glutamatergic,L6
+783,F,ENT,L6b/CT ENT,Glutamatergic,L6
+784,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+785,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+786,F,ENT,L6b/CT ENT,Glutamatergic,L6
+787,M,VIS,Car3,Glutamatergic,other
+788,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+789,M,VIS,L5 IT CTX,Glutamatergic,L5
+790,M,RSP,L6 CT CTX,Glutamatergic,L6
+791,F,ENT,L2 IT ENTm,Glutamatergic,L2
+792,F,ENT,L3 IT ENT,Glutamatergic,L3
+793,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+794,F,VIS,Vip,GABAergic,other
+795,F,VIS,L6 IT CTX,Glutamatergic,L6
+796,M,VIS,L5 IT CTX,Glutamatergic,L5
+797,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+798,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+799,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+800,F,ENT,Lamp5,GABAergic,other
+801,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+802,F,ENT,L3 IT ENT,Glutamatergic,L3
+803,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+804,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+805,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+806,M,VIS,L6 CT CTX,Glutamatergic,L6
+807,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+808,F,ENT,L6b/CT ENT,Glutamatergic,L6
+809,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+810,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+811,M,ENT,Sncg,GABAergic,other
+812,M,VIS,L5 IT CTX,Glutamatergic,L5
+813,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+814,F,ENT,Sst,GABAergic,other
+815,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+816,M,VIS,L5 IT CTX,Glutamatergic,L5
+817,M,ENT,L2 IT ENTl,Glutamatergic,L2
+818,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+819,M,VIS,L6 IT CTX,Glutamatergic,L6
+820,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+821,F,VIS,L5 IT CTX,Glutamatergic,L5
+822,F,ENT,L3 IT ENT,Glutamatergic,L3
+823,M,VIS,Sst,GABAergic,other
+824,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+825,M,VIS,Sst,GABAergic,other
+826,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+827,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+828,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+829,M,VIS,Lamp5,GABAergic,other
+830,M,VIS,L6 CT CTX,Glutamatergic,L6
+831,M,VIS,Pvalb,GABAergic,other
+832,F,VIS,Car3,Glutamatergic,other
+833,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+834,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+835,M,ENT,Pvalb,GABAergic,other
+836,F,RSP,Lamp5,GABAergic,other
+837,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+838,M,VIS,L6 CT CTX,Glutamatergic,L6
+839,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+840,F,VIS,Lamp5,GABAergic,other
+841,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+842,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+843,M,RSP,Lamp5,GABAergic,other
+844,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+845,F,ENT,L2 IT ENTl,Glutamatergic,L2
+846,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+847,M,VIS,L6 IT CTX,Glutamatergic,L6
+848,F,ENT,L3 IT ENT,Glutamatergic,L3
+849,M,ENT,Pvalb,GABAergic,other
+850,M,VIS,Sst,GABAergic,other
+851,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+852,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+853,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+854,M,VIS,L6 CT CTX,Glutamatergic,L6
+855,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+856,M,VIS,Sst,GABAergic,other
+857,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+858,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+859,M,ENT,NP PPP,Glutamatergic,other
+860,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+861,M,VIS,Sst,GABAergic,other
+862,F,RSP,L6b CTX,Glutamatergic,L6
+863,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+864,M,VIS,L6 CT CTX,Glutamatergic,L6
+865,M,VIS,L5 IT CTX,Glutamatergic,L5
+866,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+867,M,RSP,Lamp5,GABAergic,other
+868,M,VIS,L6 IT CTX,Glutamatergic,L6
+869,M,VIS,L6 IT CTX,Glutamatergic,L6
+870,M,VIS,L5 IT CTX,Glutamatergic,L5
+871,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+872,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+873,F,VIS,L6 CT CTX,Glutamatergic,L6
+874,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+875,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+876,M,RSP,L5 IT CTX,Glutamatergic,L5
+877,M,VIS,Sst,GABAergic,other
+878,M,RSP,L6 CT CTX,Glutamatergic,L6
+879,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+880,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+881,M,VIS,L5 IT CTX,Glutamatergic,L5
+882,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+883,F,ENT,L2 IT ENTm,Glutamatergic,L2
+884,F,VIS,Pvalb,GABAergic,other
+885,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+886,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+887,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+888,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+889,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+890,F,ENT,L6b/CT ENT,Glutamatergic,L6
+891,M,VIS,L6 CT CTX,Glutamatergic,L6
+892,M,RSP,Vip,GABAergic,other
+893,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+894,F,RSP,Endo,Non-Neuronal,other
+895,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+896,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+897,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+898,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+899,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+900,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+901,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+902,F,ENT,L3 IT ENT,Glutamatergic,L3
+903,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+904,F,ENT,L2 IT ENTl,Glutamatergic,L2
+905,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+906,M,ENT,Lamp5,GABAergic,other
+907,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+908,M,ENT,L6b/CT ENT,Glutamatergic,L6
+909,M,VIS,L5 IT CTX,Glutamatergic,L5
+910,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+911,F,ENT,L6b/CT ENT,Glutamatergic,L6
+912,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+913,F,VIS,L6 CT CTX,Glutamatergic,L6
+914,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+915,M,RSP,L5 IT CTX,Glutamatergic,L5
+916,F,ENT,L3 IT ENT,Glutamatergic,L3
+917,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+918,F,ENT,L3 IT ENT,Glutamatergic,L3
+919,M,VIS,L6 IT CTX,Glutamatergic,L6
+920,M,ENT,L2 IT ENTl,Glutamatergic,L2
+921,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+922,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+923,F,RSP,L5 IT CTX,Glutamatergic,L5
+924,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+925,M,VIS,Vip,GABAergic,other
+926,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+927,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+928,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+929,F,VIS,Lamp5,GABAergic,other
+930,M,VIS,L5 IT CTX,Glutamatergic,L5
+931,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+932,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+933,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+934,M,VIS,Pvalb,GABAergic,other
+935,F,ENT,L6b CTX,Glutamatergic,L6
+936,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+937,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+938,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+939,F,RSP,Vip,GABAergic,other
+940,M,VIS,Vip,GABAergic,other
+941,F,ENT,L6b/CT ENT,Glutamatergic,L6
+942,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+943,F,VIS,Lamp5,GABAergic,other
+944,F,VIS,L6 CT CTX,Glutamatergic,L6
+945,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+946,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+947,M,VIS,Sst,GABAergic,other
+948,M,RSP,L5 IT CTX,Glutamatergic,L5
+949,M,VIS,L6 CT CTX,Glutamatergic,L6
+950,M,RSP,Pvalb,GABAergic,other
+951,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+952,M,VIS,L6 IT CTX,Glutamatergic,L6
+953,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+954,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+955,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+956,M,VIS,Pvalb,GABAergic,other
+957,F,VIS,Vip,GABAergic,other
+958,M,VIS,L5 IT CTX,Glutamatergic,L5
+959,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+960,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+961,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+962,M,VIS,Oligo,Non-Neuronal,other
+963,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+964,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+965,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+966,M,VIS,L6 IT CTX,Glutamatergic,L6
+967,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+968,M,VIS,L6 CT CTX,Glutamatergic,L6
+969,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+970,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+971,M,VIS,L5 PT CTX,Glutamatergic,L5
+972,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+973,M,VIS,L6 CT CTX,Glutamatergic,L6
+974,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+975,M,VIS,L6 IT CTX,Glutamatergic,L6
+976,F,VIS,L6 IT CTX,Glutamatergic,L6
+977,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+978,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+979,M,VIS,L6 IT CTX,Glutamatergic,L6
+980,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+981,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+982,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+983,M,VIS,L5 PT CTX,Glutamatergic,L5
+984,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+985,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+986,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+987,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+988,M,VIS,Pvalb,GABAergic,other
+989,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+990,M,RSP,L6 CT CTX,Glutamatergic,L6
+991,M,RSP,Lamp5,GABAergic,other
+992,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+993,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+994,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+995,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+996,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+997,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+998,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+999,M,VIS,L6 IT CTX,Glutamatergic,L6
+1000,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1001,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1002,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1003,M,VIS,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+1004,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1005,M,VIS,L6 CT CTX,Glutamatergic,L6
+1006,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1007,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1008,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1009,M,VIS,Pvalb,GABAergic,other
+1010,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1011,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1012,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1013,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1014,M,VIS,L6 IT CTX,Glutamatergic,L6
+1015,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1016,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1017,M,VIS,L6 CT CTX,Glutamatergic,L6
+1018,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1019,F,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+1020,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1021,M,RSP,L6 CT CTX,Glutamatergic,L6
+1022,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1023,M,VIS,L6 CT CTX,Glutamatergic,L6
+1024,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1025,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1026,M,VIS,Pvalb,GABAergic,other
+1027,F,VIS,Vip,GABAergic,other
+1028,M,VIS,L6 CT CTX,Glutamatergic,L6
+1029,M,VIS,L6 CT CTX,Glutamatergic,L6
+1030,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1031,M,VIS,L6 IT CTX,Glutamatergic,L6
+1032,M,VIS,L6 IT CTX,Glutamatergic,L6
+1033,M,VIS,Pvalb,GABAergic,other
+1034,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1035,M,VIS,Sst,GABAergic,other
+1036,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1037,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1038,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1039,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1040,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1041,M,ENT,L3 IT ENT,Glutamatergic,L3
+1042,M,ENT,L3 IT ENT,Glutamatergic,L3
+1043,F,ENT,Lamp5,GABAergic,other
+1044,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1045,M,VIS,L6 IT CTX,Glutamatergic,L6
+1046,F,VIS,L6 IT CTX,Glutamatergic,L6
+1047,M,VIS,L5 PT CTX,Glutamatergic,L5
+1048,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1049,F,VIS,L6 IT CTX,Glutamatergic,L6
+1050,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1051,M,VIS,L6 IT CTX,Glutamatergic,L6
+1052,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1053,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1054,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1055,F,ENT,Sst,GABAergic,other
+1056,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1057,M,VIS,L6 IT CTX,Glutamatergic,L6
+1058,F,ENT,L6b CTX,Glutamatergic,L6
+1059,M,VIS,Vip,GABAergic,other
+1060,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1061,F,RSP,L6 IT CTX,Glutamatergic,L6
+1062,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1063,M,RSP,L6 CT CTX,Glutamatergic,L6
+1064,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1065,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1066,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1067,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1068,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1069,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1070,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1071,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1072,M,VIS,Sst,GABAergic,other
+1073,F,VIS,Car3,Glutamatergic,other
+1074,M,VIS,L5 IT CTX,Glutamatergic,L5
+1075,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1076,M,VIS,Sst,GABAergic,other
+1077,M,RSP,L6 CT CTX,Glutamatergic,L6
+1078,M,VIS,L5 IT CTX,Glutamatergic,L5
+1079,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1080,M,ENT,L2 IT ENTl,Glutamatergic,L2
+1081,M,VIS,L5 IT CTX,Glutamatergic,L5
+1082,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1083,M,RSP,L6b CTX,Glutamatergic,L6
+1084,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1085,M,RSP,Lamp5,GABAergic,other
+1086,M,VIS,L5 PT CTX,Glutamatergic,L5
+1087,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+1088,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1089,F,ENT,L3 IT ENT,Glutamatergic,L3
+1090,M,VIS,L6 IT CTX,Glutamatergic,L6
+1091,M,ENT,Sst,GABAergic,other
+1092,F,VIS,L5 IT CTX,Glutamatergic,L5
+1093,M,VIS,L6 CT CTX,Glutamatergic,L6
+1094,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1095,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1096,M,VIS,L6b CTX,Glutamatergic,L6
+1097,M,RSP,L6 CT CTX,Glutamatergic,L6
+1098,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1099,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1100,M,VIS,Sst,GABAergic,other
+1101,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1102,M,RSP,Lamp5,GABAergic,other
+1103,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1104,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1105,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1106,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1107,M,VIS,Vip,GABAergic,other
+1108,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1109,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1110,M,VIS,L6 CT CTX,Glutamatergic,L6
+1111,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1112,F,VIS,Vip,GABAergic,other
+1113,M,RSP,L5 PT CTX,Glutamatergic,L5
+1114,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1115,F,ENT,Lamp5,GABAergic,other
+1116,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1117,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1118,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1119,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1120,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1121,M,RSP,L5 PT CTX,Glutamatergic,L5
+1122,F,RSP,Endo,Non-Neuronal,other
+1123,M,VIS,Lamp5,GABAergic,other
+1124,M,VIS,L5 IT CTX,Glutamatergic,L5
+1125,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1126,M,VIS,L5 PT CTX,Glutamatergic,L5
+1127,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1128,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1129,F,VIS,L5 IT CTX,Glutamatergic,L5
+1130,F,VIS,Vip,GABAergic,other
+1131,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1132,M,VIS,Sncg,GABAergic,other
+1133,M,RSP,L6 CT CTX,Glutamatergic,L6
+1134,M,VIS,L5 IT CTX,Glutamatergic,L5
+1135,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1136,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1137,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1138,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1139,F,ENT,L6b CTX,Glutamatergic,L6
+1140,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1141,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1142,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1143,M,VIS,L6 CT CTX,Glutamatergic,L6
+1144,M,RSP,L5 IT CTX,Glutamatergic,L5
+1145,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1146,F,ENT,L6b CTX,Glutamatergic,L6
+1147,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1148,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1149,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1150,M,ENT,Pvalb,GABAergic,other
+1151,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1152,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1153,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1154,F,ENT,L3 IT ENT,Glutamatergic,L3
+1155,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1156,M,VIS,Sncg,GABAergic,other
+1157,M,VIS,L5 IT CTX,Glutamatergic,L5
+1158,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1159,F,VIS,L5 IT CTX,Glutamatergic,L5
+1160,M,VIS,L6 CT CTX,Glutamatergic,L6
+1161,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1162,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1163,M,VIS,L6 CT CTX,Glutamatergic,L6
+1164,M,VIS,Sst,GABAergic,other
+1165,M,VIS,L6 CT CTX,Glutamatergic,L6
+1166,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1167,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1168,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1169,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1170,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1171,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1172,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1173,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1174,M,ENT,Endo,Non-Neuronal,other
+1175,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1176,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1177,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1178,M,VIS,L5 IT CTX,Glutamatergic,L5
+1179,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1180,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1181,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1182,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1183,M,ENT,L3 IT ENT,Glutamatergic,L3
+1184,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1185,M,VIS,Vip,GABAergic,other
+1186,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1187,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1188,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1189,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1190,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1191,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1192,M,ENT,L3 IT ENT,Glutamatergic,L3
+1193,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1194,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1195,M,RSP,Sncg,GABAergic,other
+1196,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1197,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1198,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+1199,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1200,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1201,M,VIS,L6 CT CTX,Glutamatergic,L6
+1202,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1203,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1204,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1205,M,VIS,L5 PT CTX,Glutamatergic,L5
+1206,M,VIS,L6 IT CTX,Glutamatergic,L6
+1207,M,ENT,L2 IT ENTm,Glutamatergic,L2
+1208,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1209,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1210,M,ENT,Sst,GABAergic,other
+1211,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1212,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1213,M,VIS,Lamp5,GABAergic,other
+1214,M,VIS,L6 CT CTX,Glutamatergic,L6
+1215,F,ENT,Pvalb,GABAergic,other
+1216,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1217,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1218,M,VIS,L6 CT CTX,Glutamatergic,L6
+1219,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1220,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1221,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1222,F,VIS,L5 PT CTX,Glutamatergic,L5
+1223,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1224,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+1225,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1226,F,VIS,Endo,Non-Neuronal,other
+1227,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1228,M,VIS,L2/3 IT PPP,Glutamatergic,L2/3
+1229,M,VIS,L6 CT CTX,Glutamatergic,L6
+1230,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1231,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1232,M,VIS,Lamp5,GABAergic,other
+1233,M,VIS,L6 IT CTX,Glutamatergic,L6
+1234,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1235,M,RSP,L5 PT CTX,Glutamatergic,L5
+1236,M,VIS,Vip,GABAergic,other
+1237,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1238,M,VIS,L6 CT CTX,Glutamatergic,L6
+1239,M,VIS,Sncg,GABAergic,other
+1240,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1241,M,VIS,Sst,GABAergic,other
+1242,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1243,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1244,M,VIS,L5 IT CTX,Glutamatergic,L5
+1245,M,VIS,L6 IT CTX,Glutamatergic,L6
+1246,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1247,F,RSP,L6 CT CTX,Glutamatergic,L6
+1248,M,VIS,Pvalb,GABAergic,other
+1249,M,ENT,Car3,Glutamatergic,other
+1250,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1251,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1252,M,RSP,Lamp5,GABAergic,other
+1253,F,VIS,L6 IT CTX,Glutamatergic,L6
+1254,F,VIS,Pvalb,GABAergic,other
+1255,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+1256,M,ENT,L3 IT ENT,Glutamatergic,L3
+1257,F,VIS,Astro,Non-Neuronal,other
+1258,F,ENT,L3 IT ENT,Glutamatergic,L3
+1259,M,VIS,Pvalb,GABAergic,other
+1260,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1261,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1262,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1263,M,VIS,L6 IT CTX,Glutamatergic,L6
+1264,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1265,M,VIS,Astro,Non-Neuronal,other
+1266,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1267,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+1268,M,ENT,Lamp5,GABAergic,other
+1269,M,VIS,Vip,GABAergic,other
+1270,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1271,F,ENT,Lamp5,GABAergic,other
+1272,M,ENT,L3 IT ENT,Glutamatergic,L3
+1273,M,VIS,L6 CT CTX,Glutamatergic,L6
+1274,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1275,M,ENT,L3 IT ENT,Glutamatergic,L3
+1276,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1277,M,RSP,L6 CT CTX,Glutamatergic,L6
+1278,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1279,M,ENT,L2 IT ENTm,Glutamatergic,L2
+1280,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1281,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1282,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1283,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1284,M,VIS,L6 CT CTX,Glutamatergic,L6
+1285,M,ENT,Sst,GABAergic,other
+1286,M,VIS,L5 IT CTX,Glutamatergic,L5
+1287,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1288,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1289,M,VIS,L6 CT CTX,Glutamatergic,L6
+1290,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1291,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1292,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1293,F,RSP,Sncg,GABAergic,other
+1294,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1295,M,RSP,Vip,GABAergic,other
+1296,M,VIS,L5 PT CTX,Glutamatergic,L5
+1297,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1298,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1299,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1300,M,VIS,L5 IT CTX,Glutamatergic,L5
+1301,M,VIS,Oligo,Non-Neuronal,other
+1302,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1303,F,VIS,Lamp5,GABAergic,other
+1304,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1305,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1306,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1307,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1308,M,VIS,L6 CT CTX,Glutamatergic,L6
+1309,M,VIS,Lamp5,GABAergic,other
+1310,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1311,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1312,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1313,F,VIS,Lamp5,GABAergic,other
+1314,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1315,M,ENT,L6 IT CTX,Glutamatergic,L6
+1316,M,RSP,Lamp5,GABAergic,other
+1317,M,VIS,L6 IT CTX,Glutamatergic,L6
+1318,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1319,M,VIS,L6 IT CTX,Glutamatergic,L6
+1320,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1321,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1322,F,ENT,L3 IT ENT,Glutamatergic,L3
+1323,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1324,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1325,M,VIS,L6 IT CTX,Glutamatergic,L6
+1326,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1327,M,VIS,L6 IT CTX,Glutamatergic,L6
+1328,F,ENT,L6 IT CTX,Glutamatergic,L6
+1329,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1330,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1331,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1332,M,VIS,L6 CT CTX,Glutamatergic,L6
+1333,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1334,M,VIS,L6 CT CTX,Glutamatergic,L6
+1335,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1336,M,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+1337,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1338,M,ENT,L6 IT CTX,Glutamatergic,L6
+1339,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1340,M,VIS,Vip,GABAergic,other
+1341,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1342,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1343,M,VIS,L6 IT CTX,Glutamatergic,L6
+1344,M,VIS,L5 PT CTX,Glutamatergic,L5
+1345,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1346,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1347,F,ENT,L3 IT ENT,Glutamatergic,L3
+1348,F,VIS,L5 IT CTX,Glutamatergic,L5
+1349,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1350,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1351,M,RSP,L6 CT CTX,Glutamatergic,L6
+1352,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1353,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1354,M,RSP,L5 PT CTX,Glutamatergic,L5
+1355,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1356,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1357,M,VIS,L6 IT CTX,Glutamatergic,L6
+1358,M,VIS,L6 IT CTX,Glutamatergic,L6
+1359,M,VIS,L6 CT CTX,Glutamatergic,L6
+1360,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1361,M,VIS,L6 IT CTX,Glutamatergic,L6
+1362,F,VIS,L5 IT CTX,Glutamatergic,L5
+1363,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1364,M,ENT,L2 IT ENTl,Glutamatergic,L2
+1365,F,ENT,L3 IT ENT,Glutamatergic,L3
+1366,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1367,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1368,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1369,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1370,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1371,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1372,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1373,M,ENT,Sst,GABAergic,other
+1374,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1375,F,ENT,L3 IT ENT,Glutamatergic,L3
+1376,M,VIS,L6 IT CTX,Glutamatergic,L6
+1377,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1378,M,VIS,L6 CT CTX,Glutamatergic,L6
+1379,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1380,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1381,M,VIS,L6 CT CTX,Glutamatergic,L6
+1382,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1383,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1384,M,RSP,L5 IT CTX,Glutamatergic,L5
+1385,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1386,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1387,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1388,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1389,M,VIS,L6 CT CTX,Glutamatergic,L6
+1390,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1391,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1392,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1393,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1394,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1395,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1396,M,VIS,L6 CT CTX,Glutamatergic,L6
+1397,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1398,M,VIS,L5 IT CTX,Glutamatergic,L5
+1399,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1400,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1401,M,VIS,Pvalb,GABAergic,other
+1402,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1403,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1404,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1405,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1406,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1407,M,VIS,Sst,GABAergic,other
+1408,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1409,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1410,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1411,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1412,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1413,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1414,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1415,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1416,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1417,F,ENT,L3 IT ENT,Glutamatergic,L3
+1418,F,VIS,Pvalb,GABAergic,other
+1419,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1420,F,ENT,Pvalb,GABAergic,other
+1421,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1422,M,ENT,Sncg,GABAergic,other
+1423,M,RSP,L6 CT CTX,Glutamatergic,L6
+1424,F,VIS,L5 IT CTX,Glutamatergic,L5
+1425,F,ENT,NP PPP,Glutamatergic,other
+1426,M,VIS,L6 CT CTX,Glutamatergic,L6
+1427,M,VIS,Pvalb,GABAergic,other
+1428,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1429,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1430,M,RSP,L6 CT CTX,Glutamatergic,L6
+1431,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1432,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1433,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1434,M,RSP,Vip,GABAergic,other
+1435,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1436,M,RSP,L6 IT CTX,Glutamatergic,L6
+1437,F,ENT,L3 IT ENT,Glutamatergic,L3
+1438,M,ENT,L3 IT ENT,Glutamatergic,L3
+1439,M,VIS,L6 CT CTX,Glutamatergic,L6
+1440,F,RSP,L6 CT CTX,Glutamatergic,L6
+1441,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1442,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1443,M,VIS,L6 IT CTX,Glutamatergic,L6
+1444,M,VIS,Vip,GABAergic,other
+1445,M,ENT,L5 IT CTX,Glutamatergic,L5
+1446,M,VIS,L6 CT CTX,Glutamatergic,L6
+1447,M,VIS,Lamp5,GABAergic,other
+1448,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1449,M,ENT,Pvalb,GABAergic,other
+1450,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1451,M,VIS,Vip,GABAergic,other
+1452,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1453,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1454,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1455,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1456,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1457,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1458,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1459,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1460,F,RSP,L6 CT CTX,Glutamatergic,L6
+1461,M,VIS,L6 CT CTX,Glutamatergic,L6
+1462,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1463,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1464,F,ENT,L2 IT ENTm,Glutamatergic,L2
+1465,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1466,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1467,M,VIS,L6 CT CTX,Glutamatergic,L6
+1468,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1469,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1470,F,VIS,Pvalb,GABAergic,other
+1471,M,VIS,Lamp5,GABAergic,other
+1472,M,VIS,Car3,Glutamatergic,other
+1473,F,VIS,L6 CT CTX,Glutamatergic,L6
+1474,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1475,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1476,M,RSP,L6 CT CTX,Glutamatergic,L6
+1477,M,VIS,L6 IT CTX,Glutamatergic,L6
+1478,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1479,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1480,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1481,M,VIS,L5 PT CTX,Glutamatergic,L5
+1482,F,ENT,Lamp5,GABAergic,other
+1483,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1484,M,VIS,L6 IT CTX,Glutamatergic,L6
+1485,M,VIS,L5 PT CTX,Glutamatergic,L5
+1486,M,VIS,L6 CT CTX,Glutamatergic,L6
+1487,M,ENT,L3 IT ENT,Glutamatergic,L3
+1488,M,ENT,L3 IT ENT,Glutamatergic,L3
+1489,F,VIS,L6 CT CTX,Glutamatergic,L6
+1490,F,ENT,L3 IT ENT,Glutamatergic,L3
+1491,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1492,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+1493,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1494,M,VIS,L6 IT CTX,Glutamatergic,L6
+1495,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1496,M,VIS,Sst,GABAergic,other
+1497,M,VIS,L6 CT CTX,Glutamatergic,L6
+1498,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1499,M,VIS,L5 IT CTX,Glutamatergic,L5
+1500,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1501,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1502,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1503,M,ENT,Sst,GABAergic,other
+1504,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1505,M,ENT,L6 IT ENTl,Glutamatergic,L6
+1506,M,VIS,L6 IT CTX,Glutamatergic,L6
+1507,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1508,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1509,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1510,F,ENT,L3 IT ENT,Glutamatergic,L3
+1511,F,VIS,L6 IT CTX,Glutamatergic,L6
+1512,M,VIS,L6 CT CTX,Glutamatergic,L6
+1513,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1514,M,VIS,L5 IT CTX,Glutamatergic,L5
+1515,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1516,M,VIS,L5 IT CTX,Glutamatergic,L5
+1517,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1518,F,ENT,L3 IT ENT,Glutamatergic,L3
+1519,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1520,M,RSP,Vip,GABAergic,other
+1521,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1522,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1523,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1524,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1525,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1526,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1527,M,VIS,Sst,GABAergic,other
+1528,F,VIS,Pvalb,GABAergic,other
+1529,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1530,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1531,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1532,M,VIS,Car3,Glutamatergic,other
+1533,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1534,M,VIS,L6 IT CTX,Glutamatergic,L6
+1535,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1536,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1537,M,ENT,L6 IT ENTl,Glutamatergic,L6
+1538,F,ENT,L3 IT ENT,Glutamatergic,L3
+1539,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1540,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1541,M,VIS,L6 IT CTX,Glutamatergic,L6
+1542,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1543,M,VIS,Pvalb,GABAergic,other
+1544,M,VIS,Car3,Glutamatergic,other
+1545,F,RSP,Sst,GABAergic,other
+1546,F,ENT,L3 IT ENT,Glutamatergic,L3
+1547,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1548,F,RSP,L5 IT CTX,Glutamatergic,L5
+1549,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1550,F,ENT,L3 IT ENT,Glutamatergic,L3
+1551,F,ENT,L3 IT ENT,Glutamatergic,L3
+1552,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+1553,M,ENT,Sncg,GABAergic,other
+1554,F,RSP,L6 CT CTX,Glutamatergic,L6
+1555,F,ENT,L3 IT ENT,Glutamatergic,L3
+1556,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+1557,F,ENT,L3 IT ENT,Glutamatergic,L3
+1558,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1559,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1560,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1561,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1562,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1563,F,VIS,L6 CT CTX,Glutamatergic,L6
+1564,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1565,M,VIS,Oligo,Non-Neuronal,other
+1566,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1567,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1568,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1569,M,VIS,L6 IT CTX,Glutamatergic,L6
+1570,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1571,M,VIS,L5 IT CTX,Glutamatergic,L5
+1572,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1573,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1574,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1575,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1576,F,VIS,Pvalb,GABAergic,other
+1577,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1578,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1579,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1580,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1581,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1582,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1583,F,ENT,L3 IT ENT,Glutamatergic,L3
+1584,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1585,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1586,M,VIS,L6 IT CTX,Glutamatergic,L6
+1587,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1588,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1589,F,ENT,L3 IT ENT,Glutamatergic,L3
+1590,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1591,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1592,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1593,M,RSP,Vip,GABAergic,other
+1594,M,RSP,Lamp5,GABAergic,other
+1595,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1596,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1597,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1598,M,VIS,Lamp5,GABAergic,other
+1599,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1600,M,VIS,L6 CT CTX,Glutamatergic,L6
+1601,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1602,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1603,M,RSP,L5 IT CTX,Glutamatergic,L5
+1604,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1605,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1606,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1607,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1608,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1609,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1610,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1611,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1612,M,VIS,Sst,GABAergic,other
+1613,M,VIS,L6 CT CTX,Glutamatergic,L6
+1614,M,ENT,Lamp5,GABAergic,other
+1615,M,RSP,Lamp5,GABAergic,other
+1616,M,VIS,L5 IT CTX,Glutamatergic,L5
+1617,M,ENT,L3 IT ENT,Glutamatergic,L3
+1618,M,VIS,L6 CT CTX,Glutamatergic,L6
+1619,M,VIS,L6 CT CTX,Glutamatergic,L6
+1620,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1621,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1622,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1623,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1624,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1625,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1626,M,ENT,L2 IT ENTm,Glutamatergic,L2
+1627,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1628,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1629,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1630,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1631,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1632,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1633,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1634,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1635,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+1636,F,ENT,Sst,GABAergic,other
+1637,F,ENT,L3 IT ENT,Glutamatergic,L3
+1638,F,ENT,Sst,GABAergic,other
+1639,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1640,F,VIS,L6 CT CTX,Glutamatergic,L6
+1641,M,RSP,Lamp5,GABAergic,other
+1642,M,VIS,L5 IT CTX,Glutamatergic,L5
+1643,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1644,F,VIS,Vip,GABAergic,other
+1645,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1646,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1647,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1648,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1649,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1650,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1651,M,VIS,L6 CT CTX,Glutamatergic,L6
+1652,M,ENT,L2 IT ENTl,Glutamatergic,L2
+1653,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1654,F,ENT,L3 IT ENT,Glutamatergic,L3
+1655,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1656,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1657,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1658,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1659,M,VIS,Pvalb,GABAergic,other
+1660,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1661,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1662,M,VIS,L6 CT CTX,Glutamatergic,L6
+1663,M,VIS,L5 IT CTX,Glutamatergic,L5
+1664,F,ENT,Lamp5,GABAergic,other
+1665,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1666,F,VIS,Vip,GABAergic,other
+1667,M,VIS,L6 CT CTX,Glutamatergic,L6
+1668,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1669,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1670,M,ENT,L3 IT ENT,Glutamatergic,L3
+1671,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1672,M,RSP,L6 IT CTX,Glutamatergic,L6
+1673,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1674,M,VIS,Car3,Glutamatergic,other
+1675,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1676,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1677,M,VIS,L5 IT CTX,Glutamatergic,L5
+1678,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1679,F,ENT,Pvalb,GABAergic,other
+1680,F,VIS,Vip,GABAergic,other
+1681,M,VIS,Lamp5,GABAergic,other
+1682,F,ENT,L2 IT ENTm,Glutamatergic,L2
+1683,M,VIS,Lamp5,GABAergic,other
+1684,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1685,F,RSP,L6 CT CTX,Glutamatergic,L6
+1686,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1687,M,ENT,L3 IT ENT,Glutamatergic,L3
+1688,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1689,F,ENT,L2 IT ENTm,Glutamatergic,L2
+1690,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1691,M,VIS,Pvalb,GABAergic,other
+1692,M,VIS,L6 IT CTX,Glutamatergic,L6
+1693,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1694,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1695,M,VIS,Pvalb,GABAergic,other
+1696,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1697,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1698,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1699,M,VIS,Vip,GABAergic,other
+1700,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1701,M,VIS,L6 CT CTX,Glutamatergic,L6
+1702,M,VIS,L5 IT CTX,Glutamatergic,L5
+1703,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1704,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1705,M,RSP,L5 IT CTX,Glutamatergic,L5
+1706,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1707,F,ENT,Sst,GABAergic,other
+1708,M,VIS,L6 IT CTX,Glutamatergic,L6
+1709,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1710,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1711,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1712,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1713,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1714,M,VIS,Lamp5,GABAergic,other
+1715,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1716,M,VIS,L5 IT CTX,Glutamatergic,L5
+1717,M,ENT,NP PPP,Glutamatergic,other
+1718,M,VIS,L6 CT CTX,Glutamatergic,L6
+1719,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1720,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+1721,M,VIS,Pvalb,GABAergic,other
+1722,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1723,F,VIS,L5 IT CTX,Glutamatergic,L5
+1724,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1725,M,VIS,L6 CT CTX,Glutamatergic,L6
+1726,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1727,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1728,F,ENT,Astro,Non-Neuronal,other
+1729,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1730,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1731,M,VIS,Lamp5,GABAergic,other
+1732,M,VIS,Vip,GABAergic,other
+1733,M,VIS,L6 CT CTX,Glutamatergic,L6
+1734,M,VIS,L5 PT CTX,Glutamatergic,L5
+1735,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1736,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1737,F,ENT,Micro-PVM,Non-Neuronal,other
+1738,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1739,F,ENT,L3 IT ENT,Glutamatergic,L3
+1740,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1741,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1742,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1743,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1744,M,VIS,Sst,GABAergic,other
+1745,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1746,M,VIS,Sncg,GABAergic,other
+1747,M,VIS,L6 CT CTX,Glutamatergic,L6
+1748,F,ENT,L3 IT ENT,Glutamatergic,L3
+1749,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1750,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1751,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1752,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1753,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1754,M,VIS,L6 CT CTX,Glutamatergic,L6
+1755,M,VIS,L6 IT CTX,Glutamatergic,L6
+1756,F,ENT,Sncg,GABAergic,other
+1757,M,VIS,Sst,GABAergic,other
+1758,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1759,M,RSP,L6 IT CTX,Glutamatergic,L6
+1760,M,VIS,Vip,GABAergic,other
+1761,M,VIS,L6 IT CTX,Glutamatergic,L6
+1762,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+1763,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1764,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1765,F,ENT,L3 IT ENT,Glutamatergic,L3
+1766,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1767,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1768,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1769,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1770,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1771,M,RSP,L6 CT CTX,Glutamatergic,L6
+1772,F,VIS,L6 IT CTX,Glutamatergic,L6
+1773,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+1774,M,VIS,L6 IT CTX,Glutamatergic,L6
+1775,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1776,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1777,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1778,M,VIS,L6 CT CTX,Glutamatergic,L6
+1779,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1780,M,VIS,L6 CT CTX,Glutamatergic,L6
+1781,M,VIS,L5 IT CTX,Glutamatergic,L5
+1782,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1783,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1784,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1785,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1786,M,VIS,L6 IT CTX,Glutamatergic,L6
+1787,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1788,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1789,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1790,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1791,M,RSP,L6 CT CTX,Glutamatergic,L6
+1792,M,ENT,L3 IT ENT,Glutamatergic,L3
+1793,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1794,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1795,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1796,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1797,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1798,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1799,M,RSP,L6 CT CTX,Glutamatergic,L6
+1800,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1801,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1802,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+1803,F,VIS,Pvalb,GABAergic,other
+1804,M,VIS,L6 IT CTX,Glutamatergic,L6
+1805,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1806,M,RSP,L5 PT CTX,Glutamatergic,L5
+1807,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1808,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1809,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1810,F,RSP,Vip,GABAergic,other
+1811,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1812,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1813,M,RSP,L5 IT CTX,Glutamatergic,L5
+1814,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1815,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1816,M,VIS,Endo,Non-Neuronal,other
+1817,M,VIS,L6 CT CTX,Glutamatergic,L6
+1818,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1819,M,VIS,L6 IT CTX,Glutamatergic,L6
+1820,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1821,M,VIS,L6b CTX,Glutamatergic,L6
+1822,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1823,F,VIS,L6 IT CTX,Glutamatergic,L6
+1824,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1825,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1826,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1827,F,ENT,L6b CTX,Glutamatergic,L6
+1828,M,RSP,L5 IT CTX,Glutamatergic,L5
+1829,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1830,M,VIS,L6 IT CTX,Glutamatergic,L6
+1831,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1832,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+1833,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1834,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+1835,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1836,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1837,F,ENT,L3 IT ENT,Glutamatergic,L3
+1838,M,VIS,L5 IT CTX,Glutamatergic,L5
+1839,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1840,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1841,F,RSP,Astro,Non-Neuronal,other
+1842,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1843,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1844,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1845,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1846,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1847,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1848,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1849,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1850,M,VIS,L6 IT CTX,Glutamatergic,L6
+1851,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1852,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1853,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1854,M,VIS,Lamp5,GABAergic,other
+1855,M,VIS,L6 CT CTX,Glutamatergic,L6
+1856,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1857,M,VIS,L5 IT CTX,Glutamatergic,L5
+1858,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1859,M,ENT,Lamp5,GABAergic,other
+1860,M,VIS,L6 IT CTX,Glutamatergic,L6
+1861,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1862,M,VIS,L6 CT CTX,Glutamatergic,L6
+1863,F,VIS,Pvalb,GABAergic,other
+1864,M,VIS,L5 IT CTX,Glutamatergic,L5
+1865,M,VIS,L6 IT CTX,Glutamatergic,L6
+1866,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1867,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1868,M,VIS,L5 IT CTX,Glutamatergic,L5
+1869,M,RSP,Sst,GABAergic,other
+1870,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1871,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1872,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1873,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1874,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1875,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1876,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1877,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1878,M,VIS,L6 CT CTX,Glutamatergic,L6
+1879,M,VIS,L6 CT CTX,Glutamatergic,L6
+1880,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1881,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1882,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1883,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+1884,F,VIS,Vip,GABAergic,other
+1885,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1886,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+1887,M,ENT,L3 IT ENT,Glutamatergic,L3
+1888,M,RSP,Sncg,GABAergic,other
+1889,M,VIS,L5 IT CTX,Glutamatergic,L5
+1890,F,ENT,L2 IT ENTl,Glutamatergic,L2
+1891,M,ENT,Astro,Non-Neuronal,other
+1892,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1893,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1894,F,ENT,Pvalb,GABAergic,other
+1895,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1896,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1897,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1898,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+1899,M,VIS,L6 IT CTX,Glutamatergic,L6
+1900,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1901,M,RSP,Pvalb,GABAergic,other
+1902,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1903,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1904,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1905,M,VIS,L6 CT CTX,Glutamatergic,L6
+1906,M,RSP,L6 CT CTX,Glutamatergic,L6
+1907,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1908,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1909,F,ENT,L6b CTX,Glutamatergic,L6
+1910,M,VIS,L6 CT CTX,Glutamatergic,L6
+1911,F,VIS,Pvalb,GABAergic,other
+1912,M,ENT,Lamp5,GABAergic,other
+1913,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1914,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1915,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1916,M,ENT,L3 IT ENT,Glutamatergic,L3
+1917,F,VIS,Lamp5,GABAergic,other
+1918,M,VIS,L5 IT CTX,Glutamatergic,L5
+1919,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1920,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1921,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1922,M,VIS,Lamp5,GABAergic,other
+1923,M,VIS,L6 CT CTX,Glutamatergic,L6
+1924,M,ENT,Astro,Non-Neuronal,other
+1925,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1926,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1927,M,RSP,L5 PT CTX,Glutamatergic,L5
+1928,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1929,M,ENT,L2 IT ENTm,Glutamatergic,L2
+1930,M,VIS,L5 PT CTX,Glutamatergic,L5
+1931,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1932,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1933,M,ENT,L2 IT ENTl,Glutamatergic,L2
+1934,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1935,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+1936,M,VIS,L6 CT CTX,Glutamatergic,L6
+1937,M,RSP,L5 IT CTX,Glutamatergic,L5
+1938,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1939,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1940,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1941,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1942,M,RSP,L5 IT CTX,Glutamatergic,L5
+1943,F,VIS,Sst,GABAergic,other
+1944,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1945,M,VIS,Lamp5,GABAergic,other
+1946,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1947,M,RSP,L6 IT CTX,Glutamatergic,L6
+1948,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1949,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1950,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1951,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1952,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1953,M,VIS,L5 PT CTX,Glutamatergic,L5
+1954,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1955,M,ENT,L6b/CT ENT,Glutamatergic,L6
+1956,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1957,M,ENT,Lamp5,GABAergic,other
+1958,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1959,M,VIS,Lamp5,GABAergic,other
+1960,F,ENT,L3 IT ENT,Glutamatergic,L3
+1961,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+1962,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1963,F,ENT,L6b/CT ENT,Glutamatergic,L6
+1964,M,RSP,L6 IT CTX,Glutamatergic,L6
+1965,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1966,F,VIS,L5 PT CTX,Glutamatergic,L5
+1967,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1968,M,ENT,L2 IT ENTl,Glutamatergic,L2
+1969,F,ENT,L3 IT ENT,Glutamatergic,L3
+1970,F,VIS,L6 IT CTX,Glutamatergic,L6
+1971,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1972,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1973,F,ENT,L3 IT ENT,Glutamatergic,L3
+1974,F,VIS,L5 PT CTX,Glutamatergic,L5
+1975,M,ENT,L3 IT ENT,Glutamatergic,L3
+1976,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1977,M,VIS,Pvalb,GABAergic,other
+1978,M,VIS,L6 CT CTX,Glutamatergic,L6
+1979,M,RSP,L6 CT CTX,Glutamatergic,L6
+1980,M,RSP,Lamp5,GABAergic,other
+1981,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1982,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1983,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1984,F,ENT,L4/5 IT CTX,Glutamatergic,L4/5
+1985,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+1986,F,ENT,Sst,GABAergic,other
+1987,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1988,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+1989,M,VIS,L5 IT CTX,Glutamatergic,L5
+1990,M,RSP,L6 CT CTX,Glutamatergic,L6
+1991,M,VIS,L6 CT CTX,Glutamatergic,L6
+1992,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+1993,M,RSP,L5 IT CTX,Glutamatergic,L5
+1994,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+1995,M,RSP,L6 IT CTX,Glutamatergic,L6
+1996,M,VIS,L5 PT CTX,Glutamatergic,L5
+1997,M,VIS,L5 IT CTX,Glutamatergic,L5
+1998,M,VIS,L6 IT CTX,Glutamatergic,L6
+1999,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2000,M,ENT,Oligo,Non-Neuronal,other
+2001,F,VIS,L6 CT CTX,Glutamatergic,L6
+2002,M,VIS,Sst,GABAergic,other
+2003,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2004,M,VIS,Sst,GABAergic,other
+2005,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2006,M,VIS,Pvalb,GABAergic,other
+2007,M,VIS,L6 IT CTX,Glutamatergic,L6
+2008,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2009,M,VIS,L6 CT CTX,Glutamatergic,L6
+2010,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2011,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2012,M,ENT,NP PPP,Glutamatergic,other
+2013,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2014,F,ENT,Vip,GABAergic,other
+2015,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2016,F,ENT,L3 IT ENT,Glutamatergic,L3
+2017,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2018,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2019,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2020,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2021,F,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+2022,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2023,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2024,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2025,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2026,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2027,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2028,M,RSP,L6 CT CTX,Glutamatergic,L6
+2029,F,VIS,Vip,GABAergic,other
+2030,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2031,M,RSP,Sncg,GABAergic,other
+2032,M,VIS,L5 IT CTX,Glutamatergic,L5
+2033,F,ENT,Lamp5,GABAergic,other
+2034,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2035,M,VIS,L6 IT CTX,Glutamatergic,L6
+2036,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2037,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2038,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2039,M,ENT,L3 IT ENT,Glutamatergic,L3
+2040,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2041,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2042,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2043,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2044,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2045,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2046,M,VIS,L6 IT CTX,Glutamatergic,L6
+2047,F,ENT,Pvalb,GABAergic,other
+2048,M,VIS,L6 IT CTX,Glutamatergic,L6
+2049,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2050,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2051,F,RSP,L6 CT CTX,Glutamatergic,L6
+2052,M,VIS,L6 IT CTX,Glutamatergic,L6
+2053,M,VIS,Sst Chodl,GABAergic,other
+2054,F,VIS,L6 IT CTX,Glutamatergic,L6
+2055,M,VIS,L6b CTX,Glutamatergic,L6
+2056,M,RSP,Vip,GABAergic,other
+2057,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2058,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2059,M,VIS,L6 CT CTX,Glutamatergic,L6
+2060,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2061,M,RSP,L6 CT CTX,Glutamatergic,L6
+2062,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2063,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2064,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2065,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2066,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2067,M,VIS,L6 IT CTX,Glutamatergic,L6
+2068,M,VIS,Sst,GABAergic,other
+2069,M,VIS,L6 CT CTX,Glutamatergic,L6
+2070,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2071,M,VIS,L5 PT CTX,Glutamatergic,L5
+2072,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2073,M,ENT,L4/5 IT CTX,Glutamatergic,L4/5
+2074,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2075,F,ENT,L3 IT ENT,Glutamatergic,L3
+2076,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2077,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2078,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2079,M,VIS,Sst,GABAergic,other
+2080,M,VIS,Lamp5,GABAergic,other
+2081,M,VIS,L5 PT CTX,Glutamatergic,L5
+2082,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2083,M,VIS,Sst,GABAergic,other
+2084,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2085,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2086,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2087,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2088,M,VIS,Lamp5,GABAergic,other
+2089,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2090,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2091,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2092,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2093,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2094,M,RSP,L6 CT CTX,Glutamatergic,L6
+2095,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2096,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2097,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2098,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2099,M,VIS,Vip,GABAergic,other
+2100,M,VIS,Pvalb,GABAergic,other
+2101,M,VIS,L6 CT CTX,Glutamatergic,L6
+2102,M,VIS,L6 IT CTX,Glutamatergic,L6
+2103,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2104,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2105,M,VIS,Micro-PVM,Non-Neuronal,other
+2106,M,VIS,L6 IT CTX,Glutamatergic,L6
+2107,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2108,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2109,F,VIS,Pvalb,GABAergic,other
+2110,M,VIS,Sst,GABAergic,other
+2111,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2112,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2113,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2114,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2115,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2116,M,RSP,L5 IT CTX,Glutamatergic,L5
+2117,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2118,M,VIS,L6 IT CTX,Glutamatergic,L6
+2119,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2120,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2121,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2122,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2123,M,VIS,Endo,Non-Neuronal,other
+2124,M,VIS,Car3,Glutamatergic,other
+2125,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2126,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2127,M,RSP,L5 IT CTX,Glutamatergic,L5
+2128,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2129,F,ENT,L3 IT ENT,Glutamatergic,L3
+2130,F,VIS,Vip,GABAergic,other
+2131,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2132,F,VIS,L6 CT CTX,Glutamatergic,L6
+2133,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2134,M,VIS,L6b CTX,Glutamatergic,L6
+2135,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2136,M,VIS,Pvalb,GABAergic,other
+2137,F,VIS,Lamp5,GABAergic,other
+2138,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2139,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2140,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2141,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2142,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2143,M,VIS,L6 CT CTX,Glutamatergic,L6
+2144,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2145,F,RSP,L5 IT CTX,Glutamatergic,L5
+2146,M,VIS,L5 PT CTX,Glutamatergic,L5
+2147,M,VIS,L5 PT CTX,Glutamatergic,L5
+2148,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2149,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2150,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2151,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2152,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2153,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2154,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2155,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2156,M,VIS,L6 IT CTX,Glutamatergic,L6
+2157,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2158,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2159,M,RSP,Sst,GABAergic,other
+2160,F,VIS,Vip,GABAergic,other
+2161,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2162,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+2163,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2164,M,VIS,L5 IT CTX,Glutamatergic,L5
+2165,M,ENT,L2 IT ENTl,Glutamatergic,L2
+2166,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2167,F,ENT,Sst,GABAergic,other
+2168,M,RSP,Lamp5,GABAergic,other
+2169,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2170,F,VIS,L6 CT CTX,Glutamatergic,L6
+2171,M,RSP,L5 IT CTX,Glutamatergic,L5
+2172,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2173,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2174,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2175,M,VIS,Sncg,GABAergic,other
+2176,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2177,M,VIS,L5 IT CTX,Glutamatergic,L5
+2178,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2179,M,VIS,Sst,GABAergic,other
+2180,M,ENT,L2 IT ENTl,Glutamatergic,L2
+2181,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2182,M,VIS,L5 IT CTX,Glutamatergic,L5
+2183,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2184,M,ENT,Lamp5,GABAergic,other
+2185,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2186,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2187,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2188,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2189,F,ENT,L3 IT ENT,Glutamatergic,L3
+2190,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2191,M,VIS,L5 IT CTX,Glutamatergic,L5
+2192,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2193,M,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+2194,M,RSP,L6 CT CTX,Glutamatergic,L6
+2195,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2196,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2197,M,ENT,L3 IT ENT,Glutamatergic,L3
+2198,M,ENT,Vip,GABAergic,other
+2199,M,VIS,L6 CT CTX,Glutamatergic,L6
+2200,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2201,M,ENT,L3 IT ENT,Glutamatergic,L3
+2202,F,ENT,Lamp5,GABAergic,other
+2203,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2204,M,RSP,L6 IT CTX,Glutamatergic,L6
+2205,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2206,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2207,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2208,M,VIS,L6 CT CTX,Glutamatergic,L6
+2209,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2210,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2211,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2212,M,RSP,L6 CT CTX,Glutamatergic,L6
+2213,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2214,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2215,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2216,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+2217,M,RSP,L5 IT CTX,Glutamatergic,L5
+2218,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2219,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2220,M,VIS,Pvalb,GABAergic,other
+2221,M,VIS,L6 IT CTX,Glutamatergic,L6
+2222,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2223,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2224,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2225,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2226,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2227,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2228,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2229,F,VIS,Vip,GABAergic,other
+2230,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2231,M,VIS,L5 IT CTX,Glutamatergic,L5
+2232,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2233,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2234,M,VIS,L6 IT CTX,Glutamatergic,L6
+2235,F,VIS,Sst,GABAergic,other
+2236,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2237,M,VIS,Vip,GABAergic,other
+2238,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2239,M,VIS,Car3,Glutamatergic,other
+2240,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2241,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2242,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2243,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2244,M,VIS,Pvalb,GABAergic,other
+2245,F,VIS,L6 IT CTX,Glutamatergic,L6
+2246,F,VIS,L6 IT CTX,Glutamatergic,L6
+2247,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2248,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2249,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2250,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2251,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2252,F,ENT,L3 IT ENT,Glutamatergic,L3
+2253,M,VIS,Lamp5,GABAergic,other
+2254,M,VIS,L6 CT CTX,Glutamatergic,L6
+2255,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2256,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2257,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2258,M,VIS,Lamp5,GABAergic,other
+2259,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2260,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2261,F,ENT,L3 IT ENT,Glutamatergic,L3
+2262,F,VIS,L6 CT CTX,Glutamatergic,L6
+2263,M,VIS,L5 PT CTX,Glutamatergic,L5
+2264,F,ENT,L3 IT ENT,Glutamatergic,L3
+2265,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2266,M,VIS,Pvalb,GABAergic,other
+2267,M,VIS,L6 IT CTX,Glutamatergic,L6
+2268,F,ENT,Sncg,GABAergic,other
+2269,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2270,M,VIS,L6 IT CTX,Glutamatergic,L6
+2271,M,VIS,L6 CT CTX,Glutamatergic,L6
+2272,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2273,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2274,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2275,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2276,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2277,M,ENT,L2 IT ENTl,Glutamatergic,L2
+2278,M,VIS,L6b CTX,Glutamatergic,L6
+2279,F,VIS,Lamp5,GABAergic,other
+2280,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2281,M,VIS,L5 IT CTX,Glutamatergic,L5
+2282,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2283,M,VIS,L6 IT CTX,Glutamatergic,L6
+2284,M,VIS,Sst,GABAergic,other
+2285,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2286,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2287,M,RSP,L6 CT CTX,Glutamatergic,L6
+2288,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2289,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2290,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2291,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2292,M,ENT,Sst,GABAergic,other
+2293,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2294,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2295,M,VIS,Lamp5,GABAergic,other
+2296,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2297,F,RSP,L6 IT CTX,Glutamatergic,L6
+2298,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2299,M,ENT,L3 IT ENT,Glutamatergic,L3
+2300,M,RSP,Pvalb,GABAergic,other
+2301,M,VIS,L5 IT CTX,Glutamatergic,L5
+2302,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2303,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2304,M,VIS,L6 IT CTX,Glutamatergic,L6
+2305,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2306,F,ENT,L6 CT CTX,Glutamatergic,L6
+2307,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2308,M,VIS,L6 IT CTX,Glutamatergic,L6
+2309,M,VIS,L5 IT CTX,Glutamatergic,L5
+2310,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2311,F,ENT,L2 IT ENTm,Glutamatergic,L2
+2312,F,ENT,NP PPP,Glutamatergic,other
+2313,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2314,M,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+2315,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2316,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2317,M,ENT,Sncg,GABAergic,other
+2318,F,ENT,L6b CTX,Glutamatergic,L6
+2319,M,RSP,L6 CT CTX,Glutamatergic,L6
+2320,F,ENT,L3 IT ENT,Glutamatergic,L3
+2321,M,VIS,Sst,GABAergic,other
+2322,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2323,M,VIS,L5 IT CTX,Glutamatergic,L5
+2324,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2325,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2326,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2327,M,VIS,Vip,GABAergic,other
+2328,M,VIS,Pvalb,GABAergic,other
+2329,M,VIS,L6 CT CTX,Glutamatergic,L6
+2330,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2331,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2332,M,VIS,L6 CT CTX,Glutamatergic,L6
+2333,M,VIS,L5 IT CTX,Glutamatergic,L5
+2334,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2335,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2336,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2337,F,ENT,L3 IT ENT,Glutamatergic,L3
+2338,F,RSP,L6 CT CTX,Glutamatergic,L6
+2339,F,RSP,L6 IT CTX,Glutamatergic,L6
+2340,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2341,M,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+2342,F,VIS,Vip,GABAergic,other
+2343,M,VIS,Pvalb,GABAergic,other
+2344,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2345,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2346,F,ENT,L2 IT ENTm,Glutamatergic,L2
+2347,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2348,M,VIS,L5 PT CTX,Glutamatergic,L5
+2349,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2350,M,VIS,L6b CTX,Glutamatergic,L6
+2351,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2352,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2353,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2354,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2355,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2356,F,ENT,L3 IT ENT,Glutamatergic,L3
+2357,M,VIS,Vip,GABAergic,other
+2358,M,VIS,L6 CT CTX,Glutamatergic,L6
+2359,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2360,F,VIS,Pvalb,GABAergic,other
+2361,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2362,F,VIS,L5 IT CTX,Glutamatergic,L5
+2363,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2364,F,ENT,L2 IT ENTm,Glutamatergic,L2
+2365,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2366,F,VIS,L6 IT CTX,Glutamatergic,L6
+2367,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2368,M,VIS,L6 CT CTX,Glutamatergic,L6
+2369,F,RSP,L6 CT CTX,Glutamatergic,L6
+2370,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2371,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2372,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2373,M,VIS,L6 IT CTX,Glutamatergic,L6
+2374,F,VIS,Vip,GABAergic,other
+2375,F,VIS,Lamp5,GABAergic,other
+2376,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2377,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2378,M,VIS,L6 CT CTX,Glutamatergic,L6
+2379,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2380,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2381,M,VIS,L6 CT CTX,Glutamatergic,L6
+2382,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2383,M,VIS,L2/3 IT PPP,Glutamatergic,L2/3
+2384,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2385,M,VIS,L6 CT CTX,Glutamatergic,L6
+2386,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2387,M,VIS,Sst Chodl,GABAergic,other
+2388,F,RSP,L5 IT CTX,Glutamatergic,L5
+2389,M,VIS,Oligo,Non-Neuronal,other
+2390,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2391,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2392,F,ENT,L3 IT ENT,Glutamatergic,L3
+2393,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2394,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2395,M,VIS,L6 IT CTX,Glutamatergic,L6
+2396,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2397,M,VIS,L5 IT CTX,Glutamatergic,L5
+2398,M,VIS,L6 IT CTX,Glutamatergic,L6
+2399,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2400,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2401,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2402,F,ENT,Pvalb,GABAergic,other
+2403,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+2404,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2405,M,VIS,L6 IT CTX,Glutamatergic,L6
+2406,M,VIS,L5 IT CTX,Glutamatergic,L5
+2407,M,ENT,CT SUB,Glutamatergic,other
+2408,M,RSP,L6 CT CTX,Glutamatergic,L6
+2409,F,ENT,L6 IT CTX,Glutamatergic,L6
+2410,M,VIS,L6 IT CTX,Glutamatergic,L6
+2411,F,ENT,Lamp5,GABAergic,other
+2412,F,RSP,Lamp5,GABAergic,other
+2413,M,VIS,Sst,GABAergic,other
+2414,M,VIS,Vip,GABAergic,other
+2415,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2416,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2417,F,VIS,L6 IT CTX,Glutamatergic,L6
+2418,M,VIS,L6 CT CTX,Glutamatergic,L6
+2419,M,VIS,L6 CT CTX,Glutamatergic,L6
+2420,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2421,M,VIS,L6 CT CTX,Glutamatergic,L6
+2422,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2423,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2424,F,RSP,L5 PT CTX,Glutamatergic,L5
+2425,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2426,M,VIS,L6 CT CTX,Glutamatergic,L6
+2427,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2428,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2429,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2430,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2431,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2432,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2433,M,VIS,L6 IT CTX,Glutamatergic,L6
+2434,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2435,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2436,F,ENT,L3 IT ENT,Glutamatergic,L3
+2437,M,VIS,Oligo,Non-Neuronal,other
+2438,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2439,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2440,M,VIS,L6 CT CTX,Glutamatergic,L6
+2441,M,VIS,L6 CT CTX,Glutamatergic,L6
+2442,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2443,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2444,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2445,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2446,F,ENT,NP PPP,Glutamatergic,other
+2447,M,VIS,L5 IT CTX,Glutamatergic,L5
+2448,M,VIS,Vip,GABAergic,other
+2449,M,RSP,L5 PT CTX,Glutamatergic,L5
+2450,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2451,M,VIS,L5 PT CTX,Glutamatergic,L5
+2452,F,ENT,Lamp5,GABAergic,other
+2453,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2454,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2455,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2456,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2457,M,VIS,L6 IT CTX,Glutamatergic,L6
+2458,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2459,M,VIS,L6 CT CTX,Glutamatergic,L6
+2460,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2461,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2462,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2463,M,RSP,L6 CT CTX,Glutamatergic,L6
+2464,M,VIS,Endo,Non-Neuronal,other
+2465,M,VIS,L6 CT CTX,Glutamatergic,L6
+2466,F,VIS,L6 CT CTX,Glutamatergic,L6
+2467,M,VIS,L2/3 IT PPP,Glutamatergic,L2/3
+2468,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2469,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2470,M,VIS,L5 PT CTX,Glutamatergic,L5
+2471,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2472,M,RSP,L6 CT CTX,Glutamatergic,L6
+2473,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2474,M,VIS,Sncg,GABAergic,other
+2475,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2476,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2477,M,VIS,L6 CT CTX,Glutamatergic,L6
+2478,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2479,M,VIS,L6 IT CTX,Glutamatergic,L6
+2480,M,RSP,Pvalb,GABAergic,other
+2481,M,VIS,Sncg,GABAergic,other
+2482,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2483,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2484,M,VIS,Vip,GABAergic,other
+2485,M,VIS,Vip,GABAergic,other
+2486,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2487,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2488,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2489,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2490,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2491,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2492,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2493,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2494,F,ENT,L6 IT CTX,Glutamatergic,L6
+2495,M,VIS,L5 IT CTX,Glutamatergic,L5
+2496,F,RSP,L5 PT CTX,Glutamatergic,L5
+2497,M,VIS,L6 IT CTX,Glutamatergic,L6
+2498,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2499,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2500,M,VIS,L6 IT CTX,Glutamatergic,L6
+2501,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2502,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2503,M,VIS,L6 CT CTX,Glutamatergic,L6
+2504,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2505,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2506,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2507,M,VIS,L6 IT CTX,Glutamatergic,L6
+2508,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2509,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2510,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2511,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2512,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2513,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2514,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2515,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2516,M,VIS,L6 IT CTX,Glutamatergic,L6
+2517,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2518,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2519,F,ENT,L3 IT ENT,Glutamatergic,L3
+2520,M,VIS,L6 CT CTX,Glutamatergic,L6
+2521,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2522,F,ENT,CT SUB,Glutamatergic,other
+2523,M,ENT,Sncg,GABAergic,other
+2524,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2525,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2526,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2527,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2528,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2529,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2530,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2531,M,RSP,L6 CT CTX,Glutamatergic,L6
+2532,M,RSP,Pvalb,GABAergic,other
+2533,M,VIS,L6 IT CTX,Glutamatergic,L6
+2534,F,ENT,L2 IT ENTm,Glutamatergic,L2
+2535,F,VIS,L6 CT CTX,Glutamatergic,L6
+2536,F,VIS,Oligo,Non-Neuronal,other
+2537,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2538,M,RSP,Vip,GABAergic,other
+2539,F,ENT,Pvalb,GABAergic,other
+2540,M,VIS,L6 IT CTX,Glutamatergic,L6
+2541,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+2542,M,VIS,Vip,GABAergic,other
+2543,M,RSP,Sst,GABAergic,other
+2544,M,ENT,L3 IT ENT,Glutamatergic,L3
+2545,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2546,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2547,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2548,F,ENT,L6 IT ENTl,Glutamatergic,L6
+2549,M,RSP,L5 IT CTX,Glutamatergic,L5
+2550,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2551,M,VIS,L5 IT CTX,Glutamatergic,L5
+2552,F,VIS,L5 PT CTX,Glutamatergic,L5
+2553,M,RSP,L5 IT CTX,Glutamatergic,L5
+2554,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2555,M,VIS,L6 IT CTX,Glutamatergic,L6
+2556,M,VIS,Oligo,Non-Neuronal,other
+2557,F,ENT,Lamp5,GABAergic,other
+2558,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2559,F,RSP,Oligo,Non-Neuronal,other
+2560,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2561,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2562,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2563,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2564,M,VIS,Car3,Glutamatergic,other
+2565,F,VIS,Sst,GABAergic,other
+2566,M,VIS,L5 PT CTX,Glutamatergic,L5
+2567,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2568,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2569,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2570,M,VIS,Micro-PVM,Non-Neuronal,other
+2571,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2572,M,VIS,Sst,GABAergic,other
+2573,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2574,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2575,F,ENT,L2/3 IT CTX,Glutamatergic,L2/3
+2576,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2577,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2578,M,VIS,L5 IT CTX,Glutamatergic,L5
+2579,F,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+2580,M,VIS,L6 IT CTX,Glutamatergic,L6
+2581,F,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+2582,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2583,M,VIS,L6 CT CTX,Glutamatergic,L6
+2584,F,VIS,Vip,GABAergic,other
+2585,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2586,M,RSP,Sst,GABAergic,other
+2587,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2588,M,VIS,L5 IT CTX,Glutamatergic,L5
+2589,M,ENT,L3 IT ENT,Glutamatergic,L3
+2590,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2591,M,VIS,L6 IT CTX,Glutamatergic,L6
+2592,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2593,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2594,F,ENT,Sst,GABAergic,other
+2595,M,VIS,L5 PT CTX,Glutamatergic,L5
+2596,F,VIS,Vip,GABAergic,other
+2597,M,VIS,L5 IT CTX,Glutamatergic,L5
+2598,F,ENT,L3 IT ENT,Glutamatergic,L3
+2599,M,VIS,L5 IT CTX,Glutamatergic,L5
+2600,F,ENT,Sst,GABAergic,other
+2601,F,VIS,Sst,GABAergic,other
+2602,F,VIS,Pvalb,GABAergic,other
+2603,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2604,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2605,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2606,M,VIS,L6 CT CTX,Glutamatergic,L6
+2607,M,ENT,L3 IT ENT,Glutamatergic,L3
+2608,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2609,M,ENT,L3 IT ENT,Glutamatergic,L3
+2610,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2611,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2612,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2613,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2614,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2615,M,VIS,L2/3 IT PPP,Glutamatergic,L2/3
+2616,F,ENT,L3 IT ENT,Glutamatergic,L3
+2617,F,RSP,L6 CT CTX,Glutamatergic,L6
+2618,M,ENT,L3 IT ENT,Glutamatergic,L3
+2619,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2620,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2621,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2622,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2623,M,VIS,L5 IT CTX,Glutamatergic,L5
+2624,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2625,M,VIS,L5 IT CTX,Glutamatergic,L5
+2626,M,VIS,Vip,GABAergic,other
+2627,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2628,M,ENT,Pvalb,GABAergic,other
+2629,M,VIS,L6 IT CTX,Glutamatergic,L6
+2630,M,VIS,Sst Chodl,GABAergic,other
+2631,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2632,M,VIS,L6 CT CTX,Glutamatergic,L6
+2633,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2634,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2635,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2636,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2637,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2638,M,VIS,L5 IT CTX,Glutamatergic,L5
+2639,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2640,M,VIS,L6 CT CTX,Glutamatergic,L6
+2641,F,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+2642,M,VIS,Sst,GABAergic,other
+2643,M,VIS,L6 CT CTX,Glutamatergic,L6
+2644,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2645,M,VIS,Lamp5,GABAergic,other
+2646,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2647,F,VIS,Sst,GABAergic,other
+2648,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2649,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2650,F,VIS,Sst,GABAergic,other
+2651,M,ENT,L3 IT ENT,Glutamatergic,L3
+2652,F,ENT,L3 IT ENT,Glutamatergic,L3
+2653,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2654,F,VIS,Sst,GABAergic,other
+2655,M,VIS,L5 IT CTX,Glutamatergic,L5
+2656,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2657,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2658,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2659,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2660,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2661,M,VIS,Lamp5,GABAergic,other
+2662,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2663,M,VIS,L5 IT CTX,Glutamatergic,L5
+2664,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2665,M,VIS,Sst,GABAergic,other
+2666,M,VIS,L6 IT CTX,Glutamatergic,L6
+2667,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2668,M,VIS,Pvalb,GABAergic,other
+2669,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2670,M,VIS,L5 IT CTX,Glutamatergic,L5
+2671,M,VIS,L5 PT CTX,Glutamatergic,L5
+2672,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2673,F,VIS,L6 CT CTX,Glutamatergic,L6
+2674,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2675,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2676,M,RSP,L6 CT CTX,Glutamatergic,L6
+2677,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2678,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2679,F,VIS,L5 IT CTX,Glutamatergic,L5
+2680,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2681,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2682,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2683,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2684,M,VIS,L6 CT CTX,Glutamatergic,L6
+2685,F,ENT,L3 IT ENT,Glutamatergic,L3
+2686,M,VIS,L6 IT CTX,Glutamatergic,L6
+2687,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2688,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2689,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2690,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2691,M,VIS,L6 IT CTX,Glutamatergic,L6
+2692,M,ENT,L3 IT ENT,Glutamatergic,L3
+2693,M,ENT,L2 IT ENTm,Glutamatergic,L2
+2694,M,VIS,Vip,GABAergic,other
+2695,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2696,M,VIS,Sst,GABAergic,other
+2697,M,VIS,L5 PT CTX,Glutamatergic,L5
+2698,M,RSP,L6 CT CTX,Glutamatergic,L6
+2699,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2700,F,VIS,Pvalb,GABAergic,other
+2701,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2702,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2703,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2704,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2705,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2706,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2707,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2708,M,VIS,L6 IT CTX,Glutamatergic,L6
+2709,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2710,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2711,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2712,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+2713,M,VIS,Vip,GABAergic,other
+2714,F,VIS,L5 IT CTX,Glutamatergic,L5
+2715,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2716,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2717,M,VIS,L6 IT CTX,Glutamatergic,L6
+2718,M,VIS,L5 IT CTX,Glutamatergic,L5
+2719,M,ENT,L5/6 IT TPE-ENT,Glutamatergic,L5/6
+2720,F,ENT,L5 IT CTX,Glutamatergic,L5
+2721,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2722,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2723,M,RSP,L6 CT CTX,Glutamatergic,L6
+2724,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2725,M,ENT,NP PPP,Glutamatergic,other
+2726,M,ENT,L3 IT ENT,Glutamatergic,L3
+2727,F,ENT,L3 IT ENT,Glutamatergic,L3
+2728,M,VIS,Vip,GABAergic,other
+2729,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2730,M,RSP,L5 PT CTX,Glutamatergic,L5
+2731,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2732,M,VIS,L6 CT CTX,Glutamatergic,L6
+2733,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2734,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2735,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2736,F,ENT,L3 IT ENT,Glutamatergic,L3
+2737,M,VIS,Vip,GABAergic,other
+2738,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2739,M,VIS,L6 CT CTX,Glutamatergic,L6
+2740,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2741,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2742,M,VIS,L5 IT CTX,Glutamatergic,L5
+2743,M,ENT,CR,Glutamatergic,other
+2744,F,VIS,Lamp5,GABAergic,other
+2745,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2746,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2747,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2748,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2749,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2750,F,VIS,L6 IT CTX,Glutamatergic,L6
+2751,M,VIS,L5 IT CTX,Glutamatergic,L5
+2752,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2753,M,RSP,L5 IT CTX,Glutamatergic,L5
+2754,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2755,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2756,M,ENT,L2 IT ENTm,Glutamatergic,L2
+2757,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2758,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2759,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2760,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2761,M,VIS,Pvalb,GABAergic,other
+2762,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2763,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2764,M,VIS,Lamp5,GABAergic,other
+2765,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2766,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2767,M,RSP,L6 IT CTX,Glutamatergic,L6
+2768,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2769,F,ENT,L6b CTX,Glutamatergic,L6
+2770,M,ENT,Pvalb,GABAergic,other
+2771,M,VIS,L5 IT CTX,Glutamatergic,L5
+2772,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2773,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2774,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2775,M,VIS,L5 PT CTX,Glutamatergic,L5
+2776,M,VIS,L6 CT CTX,Glutamatergic,L6
+2777,F,VIS,L6 CT CTX,Glutamatergic,L6
+2778,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2779,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2780,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2781,F,VIS,L6 IT CTX,Glutamatergic,L6
+2782,F,ENT,Lamp5,GABAergic,other
+2783,M,VIS,L5 IT CTX,Glutamatergic,L5
+2784,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2785,M,VIS,L6 CT CTX,Glutamatergic,L6
+2786,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2787,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2788,M,VIS,L6 CT CTX,Glutamatergic,L6
+2789,M,ENT,Sst,GABAergic,other
+2790,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2791,M,VIS,Sst,GABAergic,other
+2792,M,ENT,Pvalb,GABAergic,other
+2793,M,RSP,L4 RSP-ACA,Glutamatergic,L4
+2794,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2795,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2796,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2797,F,ENT,L3 IT ENT,Glutamatergic,L3
+2798,M,VIS,L6 CT CTX,Glutamatergic,L6
+2799,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2800,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2801,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2802,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2803,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2804,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2805,M,VIS,L6 CT CTX,Glutamatergic,L6
+2806,M,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2807,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2808,F,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2809,F,ENT,L6 IT ENTl,Glutamatergic,L6
+2810,M,VIS,Sst,GABAergic,other
+2811,M,VIS,L6 IT CTX,Glutamatergic,L6
+2812,M,VIS,Vip,GABAergic,other
+2813,M,VIS,L6 CT CTX,Glutamatergic,L6
+2814,F,ENT,Sncg,GABAergic,other
+2815,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2816,M,VIS,L5 PT CTX,Glutamatergic,L5
+2817,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2818,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2819,M,VIS,L5 PT CTX,Glutamatergic,L5
+2820,M,RSP,Vip,GABAergic,other
+2821,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2822,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2823,F,ENT,Vip,GABAergic,other
+2824,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2825,F,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2826,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2827,M,VIS,L6 IT CTX,Glutamatergic,L6
+2828,M,VIS,L5 IT CTX,Glutamatergic,L5
+2829,F,VIS,L6 IT CTX,Glutamatergic,L6
+2830,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2831,M,VIS,L6 CT CTX,Glutamatergic,L6
+2832,M,VIS,L6 IT CTX,Glutamatergic,L6
+2833,M,VIS,L6 CT CTX,Glutamatergic,L6
+2834,M,VIS,L5 IT CTX,Glutamatergic,L5
+2835,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2836,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2837,M,VIS,Sst,GABAergic,other
+2838,F,VIS,Lamp5,GABAergic,other
+2839,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2840,M,ENT,L6b CTX,Glutamatergic,L6
+2841,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2842,M,ENT,L3 IT ENT,Glutamatergic,L3
+2843,M,VIS,L5 IT CTX,Glutamatergic,L5
+2844,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2845,M,VIS,Lamp5,GABAergic,other
+2846,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2847,F,ENT,Pvalb,GABAergic,other
+2848,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2849,M,RSP,Sst,GABAergic,other
+2850,M,VIS,L5 PT CTX,Glutamatergic,L5
+2851,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2852,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2853,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2854,M,VIS,L6 CT CTX,Glutamatergic,L6
+2855,F,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2856,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2857,F,ENT,L3 IT ENT,Glutamatergic,L3
+2858,F,ENT,L3 IT ENT,Glutamatergic,L3
+2859,F,RSP,L5 IT CTX,Glutamatergic,L5
+2860,M,VIS,L6 CT CTX,Glutamatergic,L6
+2861,M,VIS,Sncg,GABAergic,other
+2862,M,VIS,Pvalb,GABAergic,other
+2863,M,VIS,Lamp5,GABAergic,other
+2864,M,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2865,F,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2866,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2867,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2868,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2869,F,ENT,L3 IT ENT,Glutamatergic,L3
+2870,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2871,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2872,F,ENT,L3 IT ENT,Glutamatergic,L3
+2873,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2874,F,ENT,L3 IT ENT,Glutamatergic,L3
+2875,M,ENT,L2 IT ENTl,Glutamatergic,L2
+2876,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2877,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2878,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2879,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2880,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2881,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2882,M,VIS,Sst,GABAergic,other
+2883,M,VIS,L6 CT CTX,Glutamatergic,L6
+2884,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2885,M,RSP,L5/6 NP CTX,Glutamatergic,L5/6
+2886,M,ENT,L6b CTX,Glutamatergic,L6
+2887,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2888,M,RSP,L5 IT CTX,Glutamatergic,L5
+2889,M,VIS,L6 IT CTX,Glutamatergic,L6
+2890,M,ENT,Lamp5,GABAergic,other
+2891,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2892,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2893,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2894,M,ENT,L3 IT ENT,Glutamatergic,L3
+2895,M,VIS,L6 IT CTX,Glutamatergic,L6
+2896,M,RSP,L6 CT CTX,Glutamatergic,L6
+2897,F,ENT,L3 IT ENT,Glutamatergic,L3
+2898,M,ENT,L2 IT ENTl,Glutamatergic,L2
+2899,F,RSP,L4 RSP-ACA,Glutamatergic,L4
+2900,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2901,F,RSP,L6 CT CTX,Glutamatergic,L6
+2902,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2903,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2904,M,VIS,Vip,GABAergic,other
+2905,M,VIS,Lamp5,GABAergic,other
+2906,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2907,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2908,F,ENT,L2/3 IT ENTl,Glutamatergic,L2/3
+2909,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2910,M,ENT,L2/3 IT CTX,Glutamatergic,L2/3
+2911,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2912,M,ENT,L3 IT ENT,Glutamatergic,L3
+2913,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2914,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2915,M,RSP,L5 IT CTX,Glutamatergic,L5
+2916,M,VIS,L6 CT CTX,Glutamatergic,L6
+2917,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2918,M,RSP,Lamp5,GABAergic,other
+2919,M,VIS,L5 IT CTX,Glutamatergic,L5
+2920,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2921,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2922,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2923,M,VIS,L6 CT CTX,Glutamatergic,L6
+2924,M,ENT,L2 IT ENTl,Glutamatergic,L2
+2925,F,VIS,L5 IT CTX,Glutamatergic,L5
+2926,F,ENT,L2/3 IT CTX,Glutamatergic,L2/3
+2927,M,ENT,L2/3 IT RHP,Glutamatergic,L2/3
+2928,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2929,M,RSP,L6 IT CTX,Glutamatergic,L6
+2930,M,VIS,L6 CT CTX,Glutamatergic,L6
+2931,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2932,M,VIS,L5 IT CTX,Glutamatergic,L5
+2933,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2934,M,VIS,Oligo,Non-Neuronal,other
+2935,M,VIS,L6 IT CTX,Glutamatergic,L6
+2936,F,RSP,L6 CT CTX,Glutamatergic,L6
+2937,M,VIS,L6 IT CTX,Glutamatergic,L6
+2938,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2939,F,ENT,L2/3 IT PPP,Glutamatergic,L2/3
+2940,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2941,F,VIS,L6 IT CTX,Glutamatergic,L6
+2942,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2943,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2944,M,VIS,L5 IT CTX,Glutamatergic,L5
+2945,M,VIS,Sst,GABAergic,other
+2946,M,VIS,L6 CT CTX,Glutamatergic,L6
+2947,M,VIS,L6 CT CTX,Glutamatergic,L6
+2948,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2949,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2950,M,VIS,L6 IT CTX,Glutamatergic,L6
+2951,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2952,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2953,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2954,M,VIS,Lamp5,GABAergic,other
+2955,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2956,M,VIS,L6 CT CTX,Glutamatergic,L6
+2957,F,ENT,L2 IT ENTl,Glutamatergic,L2
+2958,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2959,M,VIS,Lamp5,GABAergic,other
+2960,F,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2961,F,VIS,Sst,GABAergic,other
+2962,M,VIS,L5 PT CTX,Glutamatergic,L5
+2963,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2964,M,VIS,L6 CT CTX,Glutamatergic,L6
+2965,M,ENT,L6b/CT ENT,Glutamatergic,L6
+2966,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2967,M,VIS,L5 PT CTX,Glutamatergic,L5
+2968,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
+2969,M,RSP,L5 IT CTX,Glutamatergic,L5
+2970,M,VIS,L6 CT CTX,Glutamatergic,L6
+2971,F,RSP,L6 IT CTX,Glutamatergic,L6
+2972,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2973,M,RSP,L6 CT CTX,Glutamatergic,L6
+2974,M,VIS,L5/6 NP CTX,Glutamatergic,L5/6
+2975,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2976,M,RSP,L4/5 IT CTX,Glutamatergic,L4/5
+2977,M,VIS,Sst,GABAergic,other
+2978,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2979,M,VIS,Pvalb,GABAergic,other
+2980,M,VIS,Sst,GABAergic,other
+2981,M,VIS,L5 IT CTX,Glutamatergic,L5
+2982,M,RSP,L2/3 IT CTX,Glutamatergic,L2/3
+2983,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2984,M,VIS,L6b CTX,Glutamatergic,L6
+2985,M,RSP,Sst,GABAergic,other
+2986,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2987,M,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2988,M,ENT,L3 IT ENT,Glutamatergic,L3
+2989,M,VIS,L6 IT CTX,Glutamatergic,L6
+2990,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2991,M,VIS,L5 IT CTX,Glutamatergic,L5
+2992,M,VIS,L6 CT CTX,Glutamatergic,L6
+2993,M,VIS,L4/5 IT CTX,Glutamatergic,L4/5
+2994,M,VIS,L6 CT CTX,Glutamatergic,L6
+2995,M,VIS,L6 IT CTX,Glutamatergic,L6
+2996,M,RSP,Astro,Non-Neuronal,other
+2997,F,ENT,L6b/CT ENT,Glutamatergic,L6
+2998,F,VIS,L2/3 IT CTX,Glutamatergic,L2/3
+2999,M,VIS,Lamp5,GABAergic,other
+3000,M,RSP,L2/3 IT PPP,Glutamatergic,L2/3
