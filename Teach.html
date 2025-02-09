@@ -39,30 +39,107 @@
                     </section>
 
 				<!-- Two -->
-					<section id="two">
+				<section id="two">
+					<h2>McGill University</h2>
+					
+					<button class="collapsible">EPIB 621: Data Analysis in Health Sciences</button>
+					<div class="content">
+						<p><img src="images/teach/class_of_2024.jpg" width="350" height="200" alt="EPIB 621 Course Header"/></p>
+						<h4>Course Description</h4>
+						<p>An introduction to data analysis for health and medical applications, covering various regression models for different outcome types, including continuous, dichotomous, and count outcomes. Additional topics include regression models for correlated data, mixed-effect models, and Bayesian inference. The course emphasizes the use of R software.</p>
 						
-<!--
-						<ul class="actions">
-							<li><a href="#" class="button">Full List</a></li>
+						<h4>Learning Objectives</h4>
+						<p>By the end of this course, students should be able to:</p>
+						<ul>
+							<li>Perform preliminary analysis for health data using regression models.</li>
+							<li>Specify appropriate models based on outcome type.</li>
+							<li>Conduct model diagnostics and assess goodness of fit.</li>
+							<li>Identify directions for further statistical analysis if needed.</li>
+							<li>Understand and apply Bayesian inference in health data analysis.</li>
 						</ul>
--->
-						<h2>Western University, Ontario</h2>
-                        <h3>SS 1023: Statistical Concepts   &amp;    SS 2037: Statistics of Health</h3>
-                        <p><img src="images/teach/1023 and 2037 course header logo.png" width="750" height="400" alt=""/></p>
+					</div>
+					
+					<button class="collapsible">BIOS 694: Statistical and Machine Learning in Biostatistics</button>
+					<div class="content">
+						<h4>Course Description</h4>
+						<p>This course bridges traditional biostatistical concepts with modern machine learning methodologies. It aims to develop a deeper understanding of machine learning insights while strengthening statistical foundations. The course covers supervised and unsupervised learning techniques, their applications in epidemiology and biostatistics, and associated challenges.</p>
+						
+						<h4>Learning Objectives</h4>
+						<p>By the end of this course, students should be able to:</p>
+						<ul>
+							<li>Differentiate between supervised and unsupervised learning techniques.</li>
+							<li>Understand and apply statistical decision theory.</li>
+							<li>Analyze classification models including LDA, QDA, and support vector machines.</li>
+							<li>Implement tree-based models, neural networks, and deep learning techniques.</li>
+							<li>Evaluate the interpretability and ethical considerations of machine learning in biostatistics.</li>
+						</ul>
+					</div>
+					
+					<h2>Western University, Ontario</h2>
+					
+					<button class="collapsible">SS 1023: Statistical Concepts & SS 2037: Statistics of Health</button>
+					<div class="content">
+						<p><img src="images/teach/1023 and 2037 course header logo.png" width="750" height="400" alt="SS 1023 and SS 2037 Course Header"/></p>
 						<h4>Course Description</h4>
 						<p>An examination of statistical issues aiming towards statistical literacy and appropriate interpretation of statistical information. Common misconceptions will be targeted. Assessment of the validity and treatment of results in popular and scientific media. Conceptual consideration of study design, numerical and graphical data summaries, probability, sampling variability, confidence intervals, and hypothesis tests.</p>
-					  <p> </p>
+						
 						<h4>Learning Objectives</h4>
-						<p>As you embark on learning in this course, keep in mind that it is framed in terms of statistical literacy, rather than as a 'methods' course. That is, our goal is to develop a tool kit of knowledge and questions that we can draw on to help evaluate the validity and trustworthiness of research results and information, e.g. in popular media. Consequently, by the end of the course, you should be able to:</p>
-						<li>Correctly use and understand foundational vocabulary concepts associated with statistics;</li>
-						<li>Interpret, create (with the aid of suitable applets/technology), and critically evaluate graphical and numerical summaries of data;</li>
-						<li>Understand the role of chance, randomness, and 'average' in the context of statistical research design and analysis;</li>
-						<li>Evaluate and critique the validity of statistical research designs and conclusions;</li>
-						<li>Evaluate statistical information presented in media and society.</li>		
-						<p> </p>
+						<p>By the end of this course, students should be able to:</p>
+						<ul>
+							<li>Correctly use and understand foundational vocabulary concepts associated with statistics.</li>
+							<li>Interpret, create (with the aid of suitable applets/technology), and critically evaluate graphical and numerical summaries of data.</li>
+							<li>Understand the role of chance, randomness, and 'average' in the context of statistical research design and analysis.</li>
+							<li>Evaluate and critique the validity of statistical research designs and conclusions.</li>
+							<li>Evaluate statistical information presented in media and society.</li>
+						</ul>
+						
 						<h4>Course Materials</h4>
-						<li> <a href="https://www.youtube.com/playlist?list=PL2BZV1m3jGD-6sR0HgbDYCDeKOsNukdGk">Lectures on YouTube</a> </li>
-					</section>
+						<ul>
+							<li><a href="https://www.youtube.com/playlist?list=PL2BZV1m3jGD-6sR0HgbDYCDeKOsNukdGk">Lectures on YouTube</a></li>
+						</ul>
+					</div>
+				</section>
+				
+				<style>
+					.collapsible {
+						background-color: #f1f1f1;
+						color: #444;
+						cursor: pointer;
+						padding: 10px;
+						width: 100%;
+						border: none;
+						text-align: left;
+						outline: none;
+						font-size: 18px;
+						font-weight: bold;
+					}
+					.active, .collapsible:hover {
+						background-color: #ddd;
+					}
+					.content {
+						padding: 10px;
+						display: none;
+						overflow: hidden;
+						background-color: #f9f9f9;
+					}
+				</style>
+				
+				<script>
+					document.addEventListener("DOMContentLoaded", function () {
+						var coll = document.getElementsByClassName("collapsible");
+						for (var i = 0; i < coll.length; i++) {
+							coll[i].addEventListener("click", function () {
+								this.classList.toggle("active");
+								var content = this.nextElementSibling;
+								if (content.style.display === "block") {
+									content.style.display = "none";
+								} else {
+									content.style.display = "block";
+								}
+							});
+						}
+					});
+				</script>
 
 				<!-- Three 
 					<section id="three">
